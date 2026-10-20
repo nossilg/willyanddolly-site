@@ -19,3 +19,4 @@
 - [The short's captions](https://willyanddolly.com/101.vtt)
 - [The short](https://willyanddolly.com/101.mp4)
 - [Willy and Dolly on YouTube](https://www.youtube.com/@willyanddolly): new episodes
+- [The feed](https://willyanddolly.com/feed.xml): every new strip and short, as Atom

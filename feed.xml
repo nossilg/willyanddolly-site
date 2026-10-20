@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Willy and Dolly</title>
+  <subtitle>A comic about two little helpers and the human who types to them.</subtitle>
+  <link rel="self" type="application/atom+xml" href="https://willyanddolly.com/feed.xml"/>
+  <link rel="alternate" type="text/html" href="https://willyanddolly.com/"/>
+  <id>https://willyanddolly.com/</id>
+  <updated>2026-10-19T12:00:00Z</updated>
+  <author><name>Willy and Dolly</name></author>
+  <icon>https://willyanddolly.com/favicon.svg</icon>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-18:short/101</id>
+    <title>Willy and Dolly 101 (episode 0)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/#start"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/101.md"/>
+    <link rel="enclosure" type="video/mp4" href="https://willyanddolly.com/101.mp4" length="17114436"/>
+    <link rel="related" type="text/html" href="https://www.youtube.com/watch?v=Uil_8MFKTaM"/>
+    <published>2026-10-18T12:00:00Z</published>
+    <updated>2026-10-19T12:00:00Z</updated>
+    <summary type="text">Episode 0: the four strips as a 3-minute cartoon with sound, for people new to computer helpers and AI. Also on YouTube.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-18:strip/wd026</id>
+    <title>Hi, We&#x27;re Bots (Willy and Dolly 101, strip 1)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/#wd026"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd026.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd026.png" length="121172"/>
+    <published>2026-10-18T12:01:00Z</published>
+    <updated>2026-10-18T12:01:00Z</updated>
+    <summary type="text">Dolly: Hi. We&#x27;re bots: helpers that live inside the computer. Willy: You type. We do! John types: hi. Dolly: That&#x27;s John. John types: make me a sandwich. Willy: On it! A page that says SANDWICH floats beside Willy. Willy: Best I can do from in here! Dolly: We help with words. Lunch is still on you.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-18:strip/wd027</id>
+    <title>Words Are All We Get (Willy and Dolly 101, strip 2)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/#wd027"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd027.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd027.png" length="132654"/>
+    <published>2026-10-18T12:02:00Z</published>
+    <updated>2026-10-18T12:02:00Z</updated>
+    <summary type="text">Dolly: We only communicate using words. John types: please water the plates. Willy waters a stack of plates; the plant beside them stays dry. Willy: Plates watered! John types: plants. sorry, PLANTS. Willy: Plants watered! Plates still watered! Dolly: Every word counts. Even the wrong ones.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-18:strip/wd028</id>
+    <title>Two Ways to Help (Willy and Dolly 101, strip 3)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/#wd028"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd028.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd028.png" length="148802"/>
+    <published>2026-10-18T12:03:00Z</published>
+    <updated>2026-10-18T12:03:00Z</updated>
+    <summary type="text">Dolly: Willy jumps right in. John types: tidy up the photos. Willy stands by a tall wobbly stack of every photo. Willy: Tidy! Dolly: Which ones did you mean? John types: just the blurry ones. The blurry ones go in the bin and the stack slides over. Willy: Tidy... ish! Dolly: Asking first means less picking up.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-18:strip/wd029</id>
+    <title>How to Read Us (Willy and Dolly 101, strip 4)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/#wd029"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd029.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd029.png" length="134070"/>
+    <published>2026-10-18T12:04:00Z</published>
+    <updated>2026-10-18T12:04:00Z</updated>
+    <summary type="text">Willy sets a cup down and a tally mark appears. Dolly: Willy&#x27;s marks count the jobs he&#x27;s done. My trail of dots shows how sure I am. John types: whats 2 + 2. Dolly: Four. John types: will it rain today. Dolly: Maybe... Willy: No rain! John types: its raining. Dolly: He&#x27;s always sure. That&#x27;s not the same as right.</summary>
+  </entry>
+</feed>
