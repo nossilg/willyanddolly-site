@@ -39,5 +39,9 @@ Willy sets a cup down and a tally mark appears. Dolly: Willy's marks count the j
 - Panel by panel: https://willyanddolly.com/strips/wd029.md
 - Image: https://willyanddolly.com/strips/wd029.png
 
+## Follow along
+
+New episodes on YouTube: https://www.youtube.com/@willyanddolly
+
 ---
 Willy and Dolly · 2026
