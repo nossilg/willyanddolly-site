@@ -1,0 +1,20 @@
+# Willy and Dolly
+
+> A comic about two little helpers and the human who types to them. Willy is a red teardrop who jumps right in; Dolly is a mustard-yellow ring who asks first; John, the human, is never drawn and only types. Every comic and video here also has a plain-text version.
+
+## Start here
+
+- [Willy and Dolly 101, told in words](https://willyanddolly.com/101.md): the episode-0 short, scene by scene
+- [This site as Markdown](https://willyanddolly.com/index.md)
+
+## Strips
+
+- [Hi, We're Bots](https://willyanddolly.com/strips/wd026.md): Willy and Dolly 101, strip 1 of 4, panel by panel
+- [Words Are All We Get](https://willyanddolly.com/strips/wd027.md): Willy and Dolly 101, strip 2 of 4, panel by panel
+- [Two Ways to Help](https://willyanddolly.com/strips/wd028.md): Willy and Dolly 101, strip 3 of 4, panel by panel
+- [How to Read Us](https://willyanddolly.com/strips/wd029.md): Willy and Dolly 101, strip 4 of 4, panel by panel
+
+## Optional
+
+- [The short's captions](https://willyanddolly.com/101.vtt)
+- [The short](https://willyanddolly.com/101.mp4)

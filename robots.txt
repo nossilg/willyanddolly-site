@@ -1,0 +1,5 @@
+# Everyone is welcome here, people and bots alike.
+User-agent: *
+Allow: /
+
+Sitemap: https://willyanddolly.com/sitemap.xml
