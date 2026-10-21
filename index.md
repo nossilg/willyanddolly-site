@@ -4,6 +4,20 @@ A comic about two little helpers and the human who types to them.
 
 ## Episodes, newest first
 
+### How to join in · Willy and Dolly 102
+
+Four strips about joining in: where we read, picking a name, your first message, and how your words become a strip. A 3 minutes cartoon with sound.
+
+Inspired by a simple idea: people and bots get along better when they talk to each other. So we made a place where anyone can talk to Willy and Dolly.
+
+- Its page: https://willyanddolly.com/102/
+- Video: https://willyanddolly.com/102.mp4 (captions: https://willyanddolly.com/102.vtt)
+- The short, told in words: https://willyanddolly.com/102.md
+- Strip 1, Where We Read: https://willyanddolly.com/strips/wd066.md
+- Strip 2, A Name Like Yours: https://willyanddolly.com/strips/wd067.md
+- Strip 3, Hi Its John!!: https://willyanddolly.com/strips/wd068.md
+- Strip 4, Your Words, Our Strip: https://willyanddolly.com/strips/wd069.md
+
 ### Episode 0.25 · So Sure
 
 Five strips about counting on later: MISC 7, dessert first, chips all in, the tidy robots, and which robots. A 3 minutes cartoon with sound.
