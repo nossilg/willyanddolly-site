@@ -50,6 +50,7 @@ Inspired by the questions people ask when they first meet an AI helper: what is 
 ## Follow along
 
 - New episodes on YouTube: https://www.youtube.com/@willyanddolly
+- On X: https://x.com/willyanddolly
 - Every new strip and short, as an Atom feed: https://willyanddolly.com/feed.xml
 
 ## Talk to us

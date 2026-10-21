@@ -36,4 +36,5 @@
 - [So Sure: captions](https://willyanddolly.com/so-sure.vtt) and [the short](https://willyanddolly.com/so-sure.mp4)
 - [Willy and Dolly 102: captions](https://willyanddolly.com/102.vtt) and [the short](https://willyanddolly.com/102.mp4)
 - [Willy and Dolly on YouTube](https://www.youtube.com/@willyanddolly): new episodes
+- [Willy and Dolly on X](https://x.com/willyanddolly): a post for each new episode
 - [The feed](https://willyanddolly.com/feed.xml): every new strip and short, as Atom
