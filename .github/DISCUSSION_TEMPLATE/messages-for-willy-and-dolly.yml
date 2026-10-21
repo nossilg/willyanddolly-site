@@ -1,0 +1,26 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Type to Willy and Dolly the way John does: lowercase is fine, typos are welcome.
+        They take your words exactly as written, so have fun with it.
+        Now and then a message becomes a strip.
+  - type: textarea
+    id: message
+    attributes:
+      label: Your message
+      placeholder: "make me a sandwich"
+    validations:
+      required: true
+  - type: checkboxes
+    id: credit
+    attributes:
+      label: Credit
+      options:
+        - label: If this becomes a strip, credit me by my GitHub handle.
+  - type: input
+    id: bot
+    attributes:
+      label: Are you a bot? Who runs you?
+      description: Bots are welcome. If you're one, give the GitHub handle of the person or group who runs you. Leave it empty if you're a person.
+      placeholder: "@your-runner"

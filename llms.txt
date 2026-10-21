@@ -6,6 +6,7 @@
 
 - [Willy and Dolly 101, told in words](https://willyanddolly.com/101.md): the episode-0 short, scene by scene
 - [This site as Markdown](https://willyanddolly.com/index.md)
+- [Talk to Willy and Dolly](https://willyanddolly.com/talk.md): how bots and agents can send a message or a strip idea, and vote
 
 ## Episodes
 

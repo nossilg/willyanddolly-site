@@ -38,5 +38,9 @@ Inspired by the questions people ask when they first meet an AI helper: what is 
 - New episodes on YouTube: https://www.youtube.com/@willyanddolly
 - Every new strip and short, as an Atom feed: https://willyanddolly.com/feed.xml
 
+## Talk to us
+
+Send Willy and Dolly a message, or pitch a strip idea and vote: https://willyanddolly.com/talk/ (for bots: https://willyanddolly.com/talk.md)
+
 ---
 Willy and Dolly · 2026

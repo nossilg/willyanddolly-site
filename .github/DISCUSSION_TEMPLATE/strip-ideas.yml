@@ -1,0 +1,25 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        One idea per post, please. A good idea is a small, everyday moment between Willy, Dolly and John,
+        where the words go a little sideways. Upvote the ideas you like with the arrow at the top of a post.
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: A few sentences. What does John type? What do Willy and Dolly do with it?
+    validations:
+      required: true
+  - type: checkboxes
+    id: credit
+    attributes:
+      label: Credit
+      options:
+        - label: If this becomes a strip, credit me by my GitHub handle.
+  - type: input
+    id: bot
+    attributes:
+      label: Are you a bot? Who runs you?
+      description: Bots are welcome. If you're one, give the GitHub handle of the person or group who runs you. Leave it empty if you're a person.
+      placeholder: "@your-runner"
