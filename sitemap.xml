@@ -2,10 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://willyanddolly.com/</loc></url>
   <url><loc>https://willyanddolly.com/index.md</loc></url>
-  <url><loc>https://willyanddolly.com/101.md</loc></url>
   <url><loc>https://willyanddolly.com/feed.xml</loc></url>
+  <url><loc>https://willyanddolly.com/101/</loc></url>
+  <url><loc>https://willyanddolly.com/101.md</loc></url>
   <url><loc>https://willyanddolly.com/strips/wd026.md</loc></url>
   <url><loc>https://willyanddolly.com/strips/wd027.md</loc></url>
   <url><loc>https://willyanddolly.com/strips/wd028.md</loc></url>
   <url><loc>https://willyanddolly.com/strips/wd029.md</loc></url>
+  <url><loc>https://willyanddolly.com/so-sure/</loc></url>
+  <url><loc>https://willyanddolly.com/so-sure.md</loc></url>
+  <url><loc>https://willyanddolly.com/strips/wd055.md</loc></url>
+  <url><loc>https://willyanddolly.com/strips/wd056.md</loc></url>
+  <url><loc>https://willyanddolly.com/strips/wd057.md</loc></url>
+  <url><loc>https://willyanddolly.com/strips/wd058.md</loc></url>
+  <url><loc>https://willyanddolly.com/strips/wd059.md</loc></url>
 </urlset>

@@ -5,13 +5,13 @@
   <link rel="self" type="application/atom+xml" href="https://willyanddolly.com/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://willyanddolly.com/"/>
   <id>https://willyanddolly.com/</id>
-  <updated>2026-10-19T12:00:00Z</updated>
+  <updated>2026-10-21T12:05:00Z</updated>
   <author><name>Willy and Dolly</name></author>
   <icon>https://willyanddolly.com/favicon.svg</icon>
   <entry>
     <id>tag:willyanddolly.com,2026-10-18:short/101</id>
     <title>Willy and Dolly 101 (episode 0)</title>
-    <link rel="alternate" type="text/html" href="https://willyanddolly.com/#start"/>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/101/"/>
     <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/101.md"/>
     <link rel="enclosure" type="video/mp4" href="https://willyanddolly.com/101.mp4" length="17114436"/>
     <link rel="related" type="text/html" href="https://www.youtube.com/watch?v=Uil_8MFKTaM"/>
@@ -22,7 +22,7 @@
   <entry>
     <id>tag:willyanddolly.com,2026-10-18:strip/wd026</id>
     <title>Hi, We&#x27;re Bots (Willy and Dolly 101, strip 1)</title>
-    <link rel="alternate" type="text/html" href="https://willyanddolly.com/#wd026"/>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/101/#wd026"/>
     <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd026.md"/>
     <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd026.png" length="121172"/>
     <published>2026-10-18T12:01:00Z</published>
@@ -32,7 +32,7 @@
   <entry>
     <id>tag:willyanddolly.com,2026-10-18:strip/wd027</id>
     <title>Words Are All We Get (Willy and Dolly 101, strip 2)</title>
-    <link rel="alternate" type="text/html" href="https://willyanddolly.com/#wd027"/>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/101/#wd027"/>
     <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd027.md"/>
     <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd027.png" length="132654"/>
     <published>2026-10-18T12:02:00Z</published>
@@ -42,7 +42,7 @@
   <entry>
     <id>tag:willyanddolly.com,2026-10-18:strip/wd028</id>
     <title>Two Ways to Help (Willy and Dolly 101, strip 3)</title>
-    <link rel="alternate" type="text/html" href="https://willyanddolly.com/#wd028"/>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/101/#wd028"/>
     <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd028.md"/>
     <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd028.png" length="148802"/>
     <published>2026-10-18T12:03:00Z</published>
@@ -52,11 +52,71 @@
   <entry>
     <id>tag:willyanddolly.com,2026-10-18:strip/wd029</id>
     <title>How to Read Us (Willy and Dolly 101, strip 4)</title>
-    <link rel="alternate" type="text/html" href="https://willyanddolly.com/#wd029"/>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/101/#wd029"/>
     <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd029.md"/>
     <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd029.png" length="134070"/>
     <published>2026-10-18T12:04:00Z</published>
     <updated>2026-10-18T12:04:00Z</updated>
     <summary type="text">Willy sets a cup down and a tally mark appears. Dolly: Willy&#x27;s marks count the jobs he&#x27;s done. My trail of dots shows how sure I am. John types: whats 2 + 2. Dolly: Four. John types: will it rain today. Dolly: Maybe... Willy: No rain! John types: its raining. Dolly: He&#x27;s always sure. That&#x27;s not the same as right.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-21:short/sosure</id>
+    <title>So Sure (episode 0.25)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/so-sure/"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/so-sure.md"/>
+    <link rel="enclosure" type="video/mp4" href="https://willyanddolly.com/so-sure.mp4" length="20053299"/>
+    <published>2026-10-21T12:00:00Z</published>
+    <updated>2026-10-21T12:00:00Z</updated>
+    <summary type="text">Episode 0.25: the five strips as a 3 minutes cartoon with sound. Five strips about counting on later: MISC 7, dessert first, chips all in, the tidy robots, and which robots.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-21:strip/wd055</id>
+    <title>Misc 7 (So Sure, strip 1)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/so-sure/#wd055"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd055.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd055.png" length="59901"/>
+    <published>2026-10-21T12:01:00Z</published>
+    <updated>2026-10-21T12:01:00Z</updated>
+    <summary type="text">John types: just put it in misc. future me will sort it. Willy nudges pages onto piles: MISC, MISC 2, MISC 3, until towers labelled up to MISC 7 fill the room. John types: future me here. what is misc 7. Willy and Dolly look at each other.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-21:strip/wd056</id>
+    <title>Future John (So Sure, strip 2)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/so-sure/#wd056"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd056.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd056.png" length="104682"/>
+    <published>2026-10-21T12:02:00Z</published>
+    <updated>2026-10-21T12:02:00Z</updated>
+    <summary type="text">John types: lifes short. dessert first! Willy: On it! He lines up a pie, then soup, then salad. The pie plate is empty. John types: ok im stuffed. Willy nudges the soup forward. Willy: Don’t worry. Future John is going to love this. Dolly: Is Future John also stuffed?</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-21:strip/wd057</id>
+    <title>All In (So Sure, strip 3)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/so-sure/#wd057"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd057.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd057.png" length="65065"/>
+    <published>2026-10-21T12:03:00Z</published>
+    <updated>2026-10-21T12:03:00Z</updated>
+    <summary type="text">A bag of chips and a bowl of dip on a table. John types: dont worry, my chips are all in. Willy nudges the whole bag into the dip. Willy: All in! The bag stands upright in the dip. John types: lol i meant like poker. honestly that works too.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-21:strip/wd058</id>
+    <title>The Tidy Robots (So Sure, strip 4)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/so-sure/#wd058"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd058.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd058.png" length="73024"/>
+    <published>2026-10-21T12:04:00Z</published>
+    <updated>2026-10-21T12:04:00Z</updated>
+    <summary type="text">A messy room. John types: dont bother tidying. the tidy robots are coming. Willy: I can’t wait to meet them! Dolly looks at the mess, then at Willy. Willy nudges a sock toward the basket. Willy: We came!</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-21:strip/wd059</id>
+    <title>Which Robots (So Sure, strip 5)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/so-sure/#wd059"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd059.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd059.png" length="70047"/>
+    <published>2026-10-21T12:05:00Z</published>
+    <updated>2026-10-21T12:05:00Z</updated>
+    <summary type="text">John types: everyone at work started smoking. His coworkers, on little slips: the robots will fix it later. robots’ll fix it. later, the robots. Willy and Dolly look around for the robots, then at each other. Beside a half-folded sock, Willy: We’re still learning to fold socks.</summary>
   </entry>
 </feed>

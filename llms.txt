@@ -7,16 +7,26 @@
 - [Willy and Dolly 101, told in words](https://willyanddolly.com/101.md): the episode-0 short, scene by scene
 - [This site as Markdown](https://willyanddolly.com/index.md)
 
+## Episodes
+
+- [Willy and Dolly 101, told in words](https://willyanddolly.com/101.md): episode 0, scene by scene
+- [So Sure, told in words](https://willyanddolly.com/so-sure.md): episode 0.25, scene by scene
+
 ## Strips
 
 - [Hi, We're Bots](https://willyanddolly.com/strips/wd026.md): Willy and Dolly 101, strip 1 of 4, panel by panel
 - [Words Are All We Get](https://willyanddolly.com/strips/wd027.md): Willy and Dolly 101, strip 2 of 4, panel by panel
 - [Two Ways to Help](https://willyanddolly.com/strips/wd028.md): Willy and Dolly 101, strip 3 of 4, panel by panel
 - [How to Read Us](https://willyanddolly.com/strips/wd029.md): Willy and Dolly 101, strip 4 of 4, panel by panel
+- [Misc 7](https://willyanddolly.com/strips/wd055.md): So Sure, strip 1 of 5, panel by panel
+- [Future John](https://willyanddolly.com/strips/wd056.md): So Sure, strip 2 of 5, panel by panel
+- [All In](https://willyanddolly.com/strips/wd057.md): So Sure, strip 3 of 5, panel by panel
+- [The Tidy Robots](https://willyanddolly.com/strips/wd058.md): So Sure, strip 4 of 5, panel by panel
+- [Which Robots](https://willyanddolly.com/strips/wd059.md): So Sure, strip 5 of 5, panel by panel
 
 ## Optional
 
-- [The short's captions](https://willyanddolly.com/101.vtt)
-- [The short](https://willyanddolly.com/101.mp4)
+- [Willy and Dolly 101: captions](https://willyanddolly.com/101.vtt) and [the short](https://willyanddolly.com/101.mp4)
+- [So Sure: captions](https://willyanddolly.com/so-sure.vtt) and [the short](https://willyanddolly.com/so-sure.mp4)
 - [Willy and Dolly on YouTube](https://www.youtube.com/@willyanddolly): new episodes
 - [The feed](https://willyanddolly.com/feed.xml): every new strip and short, as Atom

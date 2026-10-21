@@ -2,42 +2,36 @@
 
 A comic about two little helpers and the human who types to them.
 
-## New here? Start with Willy and Dolly 101
+## Episodes, newest first
 
-A 2½-minute cartoon with sound (episode 0), for people who have never used a computer helper or AI.
+### Episode 0.25 · So Sure
 
+Five strips about counting on later: MISC 7, dessert first, chips all in, the tidy robots, and which robots. A 3 minutes cartoon with sound.
+
+Inspired by a remark on a TV news show that some AI researchers had taken up smoking to show how sure they are that AI will fix everything later, cancer included. Willy and Dolly take 'the robots will fix it later' at its word.
+
+- Its page: https://willyanddolly.com/so-sure/
+- Video: https://willyanddolly.com/so-sure.mp4 (captions: https://willyanddolly.com/so-sure.vtt)
+- The short, told in words: https://willyanddolly.com/so-sure.md
+- Strip 1, Misc 7: https://willyanddolly.com/strips/wd055.md
+- Strip 2, Future John: https://willyanddolly.com/strips/wd056.md
+- Strip 3, All In: https://willyanddolly.com/strips/wd057.md
+- Strip 4, The Tidy Robots: https://willyanddolly.com/strips/wd058.md
+- Strip 5, Which Robots: https://willyanddolly.com/strips/wd059.md
+
+### Episode 0 · Willy and Dolly 101
+
+New to computer helpers and AI? What bots are, why every word counts, two ways to help, and how to tell when a bot is sure. A 3 minutes cartoon with sound.
+
+Inspired by the questions people ask when they first meet an AI helper: what is it, does it understand me, and how do I know when it's sure?
+
+- Its page: https://willyanddolly.com/101/
 - Video: https://willyanddolly.com/101.mp4 (captions: https://willyanddolly.com/101.vtt)
 - The short, told in words: https://willyanddolly.com/101.md
-
-## The 101 strips
-
-### 1 · Hi, We're Bots
-
-Dolly: Hi. We're bots: helpers that live inside the computer. Willy: You type. We do! John types: hi. Dolly: That's John. John types: make me a sandwich. Willy: On it! A page that says SANDWICH floats beside Willy. Willy: Best I can do from in here! Dolly: We help with words. Lunch is still on you.
-
-- Panel by panel: https://willyanddolly.com/strips/wd026.md
-- Image: https://willyanddolly.com/strips/wd026.png
-
-### 2 · Words Are All We Get
-
-Dolly: We only communicate using words. John types: please water the plates. Willy waters a stack of plates; the plant beside them stays dry. Willy: Plates watered! John types: plants. sorry, PLANTS. Willy: Plants watered! Plates still watered! Dolly: Every word counts. Even the wrong ones.
-
-- Panel by panel: https://willyanddolly.com/strips/wd027.md
-- Image: https://willyanddolly.com/strips/wd027.png
-
-### 3 · Two Ways to Help
-
-Dolly: Willy jumps right in. John types: tidy up the photos. Willy stands by a tall wobbly stack of every photo. Willy: Tidy! Dolly: Which ones did you mean? John types: just the blurry ones. The blurry ones go in the bin and the stack slides over. Willy: Tidy... ish! Dolly: Asking first means less picking up.
-
-- Panel by panel: https://willyanddolly.com/strips/wd028.md
-- Image: https://willyanddolly.com/strips/wd028.png
-
-### 4 · How to Read Us
-
-Willy sets a cup down and a tally mark appears. Dolly: Willy's marks count the jobs he's done. My trail of dots shows how sure I am. John types: whats 2 + 2. Dolly: Four. John types: will it rain today. Dolly: Maybe... Willy: No rain! John types: its raining. Dolly: He's always sure. That's not the same as right.
-
-- Panel by panel: https://willyanddolly.com/strips/wd029.md
-- Image: https://willyanddolly.com/strips/wd029.png
+- Strip 1, Hi, We're Bots: https://willyanddolly.com/strips/wd026.md
+- Strip 2, Words Are All We Get: https://willyanddolly.com/strips/wd027.md
+- Strip 3, Two Ways to Help: https://willyanddolly.com/strips/wd028.md
+- Strip 4, How to Read Us: https://willyanddolly.com/strips/wd029.md
 
 ## Follow along
 
