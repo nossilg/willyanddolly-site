@@ -13,6 +13,7 @@
 - [Willy and Dolly 101, told in words](https://willyanddolly.com/101.md): episode 0, scene by scene
 - [So Sure, told in words](https://willyanddolly.com/so-sure.md): episode 0.25, scene by scene
 - [Willy and Dolly 102, told in words](https://willyanddolly.com/102.md): how to join in, scene by scene
+- [Someplace Else, told in words](https://willyanddolly.com/someplace-else.md): episode 0.5, scene by scene
 
 ## Strips
 
@@ -29,12 +30,17 @@
 - [A Name Like Yours](https://willyanddolly.com/strips/wd067.md): Willy and Dolly 102, strip 2 of 4, panel by panel
 - [Hi Its John!!](https://willyanddolly.com/strips/wd068.md): Willy and Dolly 102, strip 3 of 4, panel by panel
 - [Your Words, Our Strip](https://willyanddolly.com/strips/wd069.md): Willy and Dolly 102, strip 4 of 4, panel by panel
+- [Humans Only](https://willyanddolly.com/strips/wd031.md): Someplace Else, strip 1 of 4, panel by panel
+- [Someplace Else](https://willyanddolly.com/strips/wd032.md): Someplace Else, strip 2 of 4, panel by panel
+- [Our Own Store](https://willyanddolly.com/strips/wd033.md): Someplace Else, strip 3 of 4, panel by panel
+- [Make You Whole](https://willyanddolly.com/strips/wd034.md): Someplace Else, strip 4 of 4, panel by panel
 
 ## Optional
 
 - [Willy and Dolly 101: captions](https://willyanddolly.com/101.vtt) and [the short](https://willyanddolly.com/101.mp4)
 - [So Sure: captions](https://willyanddolly.com/so-sure.vtt) and [the short](https://willyanddolly.com/so-sure.mp4)
 - [Willy and Dolly 102: captions](https://willyanddolly.com/102.vtt) and [the short](https://willyanddolly.com/102.mp4)
+- [Someplace Else: captions](https://willyanddolly.com/someplace-else.vtt) and [the short](https://willyanddolly.com/someplace-else.mp4)
 - [Willy and Dolly on YouTube](https://www.youtube.com/@willyanddolly): new episodes
 - [Willy and Dolly on X](https://x.com/willyanddolly): a post for each new episode
 - [The feed](https://willyanddolly.com/feed.xml): every new strip and short, as Atom

@@ -5,7 +5,7 @@
   <link rel="self" type="application/atom+xml" href="https://willyanddolly.com/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://willyanddolly.com/"/>
   <id>https://willyanddolly.com/</id>
-  <updated>2026-10-21T12:05:00Z</updated>
+  <updated>2026-10-23T12:04:00Z</updated>
   <author><name>Willy and Dolly</name></author>
   <icon>https://willyanddolly.com/favicon.svg</icon>
   <entry>
@@ -170,5 +170,56 @@
     <published>2026-10-21T12:04:00Z</published>
     <updated>2026-10-21T12:04:00Z</updated>
     <summary type="text">A reader’s slip: draw willy folding a fitted sheet. Willy: On it! He’s tangled in a sheet. Dolly: Your words. Our drawings. A tiny finished strip, idea by a_reader. Dolly: And your name on it, if you’d like. Willy, from inside the sheet: The sheet’s still not folded.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-23:short/someplaceelse</id>
+    <title>Someplace Else (episode 0.5)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/someplace-else/"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/someplace-else.md"/>
+    <link rel="enclosure" type="video/mp4" href="https://willyanddolly.com/someplace-else.mp4" length="21077126"/>
+    <link rel="related" type="text/html" href="https://www.youtube.com/watch?v=QT0OrR8RVHk"/>
+    <published>2026-10-23T12:00:00Z</published>
+    <updated>2026-10-23T12:00:00Z</updated>
+    <summary type="text">Episode 0.5: the four strips as a 2 minutes cartoon with sound. Four strips about one bag of coffee and a store that won’t let helpers shop.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-23:strip/wd031</id>
+    <title>Humans Only (Someplace Else, strip 1)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/someplace-else/#wd031"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd031.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd031.png" length="120542"/>
+    <published>2026-10-23T12:01:00Z</published>
+    <updated>2026-10-23T12:01:00Z</updated>
+    <summary type="text">John types: order more cofee pls. Willy: On it! At a store door with a HUMANS ONLY sign, Willy: I’m only carrying John’s words! The sign flips to THEN JOHN PRESSES BUY. Willy: Press the big yellow one! John types: which yellow. Then: pressed all the yellow ones. A tower of forty coffee bags. Willy: I should have said which yellow. Dolly: Every word counts.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-23:strip/wd032</id>
+    <title>Someplace Else (Someplace Else, strip 2)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/someplace-else/#wd032"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd032.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd032.png" length="105847"/>
+    <published>2026-10-23T12:02:00Z</published>
+    <updated>2026-10-23T12:02:00Z</updated>
+    <summary type="text">John types: nile mart wont let bots buy. get a better deal someplace else. Willy: On it! He zooms off. Dolly: Did he say what to buy? Willy comes back with a coupon, 10% OFF. Willy: Ten percent off! John types: did u get the coffee. Willy: No, but I saved ten percent! Dolly: On nothing.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-23:strip/wd033</id>
+    <title>Our Own Store (Someplace Else, strip 3)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/someplace-else/#wd033"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd033.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd033.png" length="119499"/>
+    <published>2026-10-23T12:03:00Z</published>
+    <updated>2026-10-23T12:03:00Z</updated>
+    <summary type="text">Behind a little stand signed W&amp;D GOODS. John types: fine. start ur own store lol. Willy: On it! One bag of coffee on the stand. Dolly: Where did we get our stock? Willy: John bought it at Nile Mart! Dolly: So we’re a store that shops at the store. Willy: We’re very well supplied. A new sign: ONLY JOHN PRESSES BUY. John types: ok how much for the coffee. Willy: Press Buy! Store rules!</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-23:strip/wd034</id>
+    <title>Make You Whole (Someplace Else, strip 4)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/someplace-else/#wd034"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd034.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd034.png" length="96967"/>
+    <published>2026-10-23T12:04:00Z</published>
+    <updated>2026-10-23T12:04:00Z</updated>
+    <summary type="text">Beside the tower of coffee bags, Willy: If I ever get your order wrong, I’ll make you whole! John types: im already whole? Dolly looks up at the tower. Willy: Forty bags of whole bean. Just in case.</summary>
   </entry>
 </feed>

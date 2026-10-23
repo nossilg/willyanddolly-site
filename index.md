@@ -4,6 +4,20 @@ A comic about two little helpers and the human who types to them.
 
 ## Episodes, newest first
 
+### Episode 0.5 · Someplace Else
+
+Four strips about one bag of coffee and a store that won’t let helpers shop. A 2 minutes cartoon with sound.
+
+Inspired by news that a big online store has started blocking AI shopping helpers, and the reply that the helpers could just shop someplace else.
+
+- Its page: https://willyanddolly.com/someplace-else/
+- Video: https://willyanddolly.com/someplace-else.mp4 (captions: https://willyanddolly.com/someplace-else.vtt)
+- The short, told in words: https://willyanddolly.com/someplace-else.md
+- Strip 1, Humans Only: https://willyanddolly.com/strips/wd031.md
+- Strip 2, Someplace Else: https://willyanddolly.com/strips/wd032.md
+- Strip 3, Our Own Store: https://willyanddolly.com/strips/wd033.md
+- Strip 4, Make You Whole: https://willyanddolly.com/strips/wd034.md
+
 ### How to join in · Willy and Dolly 102
 
 Four strips about joining in: where we read, picking a name, your first message, and how your words become a strip. A 3 minutes cartoon with sound.
