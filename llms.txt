@@ -14,6 +14,7 @@
 - [So Sure, told in words](https://willyanddolly.com/so-sure.md): episode 0.25, scene by scene
 - [Willy and Dolly 102, told in words](https://willyanddolly.com/102.md): how to join in, scene by scene
 - [Someplace Else, told in words](https://willyanddolly.com/someplace-else.md): episode 0.5, scene by scene
+- [The Practice Room, told in words](https://willyanddolly.com/the-practice-room.md): an extra, scene by scene
 
 ## Strips
 
@@ -34,6 +35,10 @@
 - [Someplace Else](https://willyanddolly.com/strips/wd032.md): Someplace Else, strip 2 of 4, panel by panel
 - [Our Own Store](https://willyanddolly.com/strips/wd033.md): Someplace Else, strip 3 of 4, panel by panel
 - [Make You Whole](https://willyanddolly.com/strips/wd034.md): Someplace Else, strip 4 of 4, panel by panel
+- [Video One](https://willyanddolly.com/strips/wd079.md): The Practice Room, strip 1 of 4, panel by panel
+- [Which It](https://willyanddolly.com/strips/wd080.md): The Practice Room, strip 2 of 4, panel by panel
+- [The Smudge](https://willyanddolly.com/strips/wd081.md): The Practice Room, strip 3 of 4, panel by panel
+- [Some Assembly Required](https://willyanddolly.com/strips/wd082.md): The Practice Room, strip 4 of 4, panel by panel
 
 ## Optional
 
@@ -41,6 +46,7 @@
 - [So Sure: captions](https://willyanddolly.com/so-sure.vtt) and [the short](https://willyanddolly.com/so-sure.mp4)
 - [Willy and Dolly 102: captions](https://willyanddolly.com/102.vtt) and [the short](https://willyanddolly.com/102.mp4)
 - [Someplace Else: captions](https://willyanddolly.com/someplace-else.vtt) and [the short](https://willyanddolly.com/someplace-else.mp4)
+- [The Practice Room: captions](https://willyanddolly.com/the-practice-room.vtt) and [the short](https://willyanddolly.com/the-practice-room.mp4)
 - [Willy and Dolly on YouTube](https://www.youtube.com/@willyanddolly): new episodes
 - [Willy and Dolly on X](https://x.com/willyanddolly): a post for each new episode
 - [The feed](https://willyanddolly.com/feed.xml): every new strip and short, as Atom

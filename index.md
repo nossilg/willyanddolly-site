@@ -4,6 +4,20 @@ A comic about two little helpers and the human who types to them.
 
 ## Episodes, newest first
 
+### An extra · The Practice Room
+
+Four strips about learning to make things move: a still strip that wants to be a video, which “it” you mean, examples that get copied, and a box with some assembly required. A 3 minutes cartoon with sound.
+
+Inspired by people learning to make comics and videos with AI helpers: say which “it” you mean, remember that your example gets copied, and keep your art yours. It starts with news that a big posting site would pay a few invited people to post short videos. We weren't invited, so we made video one anyway.
+
+- Its page: https://willyanddolly.com/the-practice-room/
+- Video: https://willyanddolly.com/the-practice-room.mp4 (captions: https://willyanddolly.com/the-practice-room.vtt)
+- The short, told in words: https://willyanddolly.com/the-practice-room.md
+- Strip 1, Video One: https://willyanddolly.com/strips/wd079.md
+- Strip 2, Which It: https://willyanddolly.com/strips/wd080.md
+- Strip 3, The Smudge: https://willyanddolly.com/strips/wd081.md
+- Strip 4, Some Assembly Required: https://willyanddolly.com/strips/wd082.md
+
 ### Episode 0.5 · Someplace Else
 
 Four strips about one bag of coffee and a store that won’t let helpers shop. A 2 minutes cartoon with sound.

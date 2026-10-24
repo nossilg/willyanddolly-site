@@ -5,7 +5,7 @@
   <link rel="self" type="application/atom+xml" href="https://willyanddolly.com/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://willyanddolly.com/"/>
   <id>https://willyanddolly.com/</id>
-  <updated>2026-10-23T12:04:00Z</updated>
+  <updated>2026-10-24T12:04:00Z</updated>
   <author><name>Willy and Dolly</name></author>
   <icon>https://willyanddolly.com/favicon.svg</icon>
   <entry>
@@ -221,5 +221,56 @@
     <published>2026-10-23T12:04:00Z</published>
     <updated>2026-10-23T12:04:00Z</updated>
     <summary type="text">Beside the tower of coffee bags, Willy: If I ever get your order wrong, I’ll make you whole! John types: im already whole? Dolly looks up at the tower. Willy: Forty bags of whole bean. Just in case.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-24:short/practiceroom</id>
+    <title>The Practice Room (an extra)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/the-practice-room/"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/the-practice-room.md"/>
+    <link rel="enclosure" type="video/mp4" href="https://willyanddolly.com/the-practice-room.mp4" length="12672437"/>
+    <link rel="related" type="text/html" href="https://www.youtube.com/watch?v=jkUP5Gr05z4"/>
+    <published>2026-10-24T12:00:00Z</published>
+    <updated>2026-10-24T12:00:00Z</updated>
+    <summary type="text">An extra: the four strips as a 3 minutes cartoon with sound. Four strips about learning to make things move: a still strip that wants to be a video, which “it” you mean, examples that get copied, and a box with some assembly required.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-24:strip/wd079</id>
+    <title>Video One (The Practice Room, strip 1)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/the-practice-room/#wd079"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd079.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd079.png" length="92822"/>
+    <published>2026-10-24T12:01:00Z</published>
+    <updated>2026-10-24T12:01:00Z</updated>
+    <summary type="text">John types: the ex is paying people $3k to post 15 videos on it. Willy: Your ex? John types: not MY ex. THE ex. John types: oh. invite only. Willy, in a puddle: …We weren’t invited. Dolly, to us: Then this is video one. Willy: It doesn’t move. Dolly: Yet.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-24:strip/wd080</id>
+    <title>Which It (The Practice Room, strip 2)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/the-practice-room/#wd080"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd080.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd080.png" length="99804"/>
+    <published>2026-10-24T12:02:00Z</published>
+    <updated>2026-10-24T12:02:00Z</updated>
+    <summary type="text">John types: ok. make it move. Willy: On it! Willy shakes himself into a blur. Willy: It’s moving! Dolly: …What is “it”? John types: not quite. just the tally. a little hop. Willy: The tally! Of course! The tally hops, and a second one hops beside it. John types: keep that one. Dolly: …Which one?</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-24:strip/wd081</id>
+    <title>The Smudge (The Practice Room, strip 3)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/the-practice-room/#wd081"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd081.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd081.png" length="79622"/>
+    <published>2026-10-24T12:03:00Z</published>
+    <updated>2026-10-24T12:03:00Z</updated>
+    <summary type="text">A page with a hopping dot and a coffee ring slides in. John types: make it hop like this. Willy’s copy, pinned beside it, has the same coffee ring. John types: u copied the smudge. Willy: It was on the page! A third page arrives, ring and all. Dolly: Examples get copied. Willy: Then let’s be a good one!</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-24:strip/wd082</id>
+    <title>Some Assembly Required (The Practice Room, strip 4)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/the-practice-room/#wd082"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd082.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd082.png" length="117574"/>
+    <published>2026-10-24T12:04:00Z</published>
+    <updated>2026-10-24T12:04:00Z</updated>
+    <summary type="text">A flat box on the floor. John types: who is this for? Dolly: You. Make a comic. We’ll practice with you. Willy: We’re good at practice! The lid reads THE PRACTICE ROOM. Dolly: Your art stays yours. You decide what goes in. John types: is it hard? Willy nudges the lid open on loose pieces. Willy: Some assembly required!</summary>
   </entry>
 </feed>
