@@ -5,7 +5,7 @@
   <link rel="self" type="application/atom+xml" href="https://willyanddolly.com/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://willyanddolly.com/"/>
   <id>https://willyanddolly.com/</id>
-  <updated>2026-10-24T12:04:00Z</updated>
+  <updated>2026-10-25T12:04:00Z</updated>
   <author><name>Willy and Dolly</name></author>
   <icon>https://willyanddolly.com/favicon.svg</icon>
   <entry>
@@ -272,5 +272,56 @@
     <published>2026-10-24T12:04:00Z</published>
     <updated>2026-10-24T12:04:00Z</updated>
     <summary type="text">A flat box on the floor. John types: who is this for? Dolly: You. Make a comic. We’ll practice with you. Willy: We’re good at practice! The lid reads THE PRACTICE ROOM. Dolly: Your art stays yours. You decide what goes in. John types: is it hard? Willy nudges the lid open on loose pieces. Willy: Some assembly required!</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-25:short/loosescrew</id>
+    <title>The Loose Screw (episode 0.75)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/the-loose-screw/"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/the-loose-screw.md"/>
+    <link rel="enclosure" type="video/mp4" href="https://willyanddolly.com/the-loose-screw.mp4" length="14050837"/>
+    <link rel="related" type="text/html" href="https://www.youtube.com/watch?v=FVGQmUQ3qu0"/>
+    <published>2026-10-25T12:00:00Z</published>
+    <updated>2026-10-25T12:00:00Z</updated>
+    <summary type="text">Episode 0.75: the four strips as a 3 minutes cartoon with sound. Four strips about one loose screw in a lock everyone shares, and the one you forgot.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-25:strip/wd075</id>
+    <title>One Look Longer (The Loose Screw, strip 1)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/the-loose-screw/#wd075"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd075.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd075.png" length="89667"/>
+    <published>2026-10-25T12:01:00Z</published>
+    <updated>2026-10-25T12:01:00Z</updated>
+    <summary type="text">By the front door, John types: that old door lock was here before me. works fine. Willy: It’s fine! Dolly studies the lock up close, her trail of dots growing. Willy nudges one screw with his tip and it turns. Willy: It’s been loose this whole time? How did you find it? Dolly, her trail gone: I looked one “it’s fine” longer.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-25:strip/wd076</id>
+    <title>Spilled (The Loose Screw, strip 2)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/the-loose-screw/#wd076"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd076.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd076.png" length="117986"/>
+    <published>2026-10-25T12:02:00Z</published>
+    <updated>2026-10-25T12:02:00Z</updated>
+    <summary type="text">John types: the loose screw news was meant for tomorrow. someone spilled it. Willy searches the floor for a puddle. Dolly: Not a puddle. The secret. Willy: Can we wipe it up? John types: its out. we just do it all today instead. Beside a tall, wobbly stack of pages, Willy: Today is very full. Dolly nudges one page to her side: Tomorrow can help.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-25:strip/wd077</id>
+    <title>Up to Date (The Loose Screw, strip 3)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/the-loose-screw/#wd077"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd077.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd077.png" length="120130"/>
+    <published>2026-10-25T12:03:00Z</published>
+    <updated>2026-10-25T12:03:00Z</updated>
+    <summary type="text">John types: update everything before lunch pls. Willy: On it! To the lamp: Good news! It’s sunny! To the plant: Big news! Our lock had a loose screw! Behind him Dolly quietly tightens the screw on the door, as Willy beams at the room: They’re very well informed now.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-25:strip/wd078</id>
+    <title>If I Forgot It (The Loose Screw, strip 4)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/the-loose-screw/#wd078"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd078.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd078.png" length="82395"/>
+    <published>2026-10-25T12:04:00Z</published>
+    <updated>2026-10-25T12:04:00Z</updated>
+    <summary type="text">John types: all our locks are tight. were good. Dolly: Is there one you forgot? John types: if i forgot it how would i know. They turn to the closet. It swings open: crammed full, a shoe tumbling out, and on the inside of its door an old lock with one loose screw. Willy, yelling: FOUND IT! ALSO YOUR OTHER SHOE! John types: i looked everywhere for that shoe</summary>
   </entry>
 </feed>

@@ -4,6 +4,20 @@ A comic about two little helpers and the human who types to them.
 
 ## Episodes, newest first
 
+### Episode 0.75 · The Loose Screw
+
+Four strips about one loose screw in a lock everyone shares, and the one you forgot. A 3 minutes cartoon with sound.
+
+Inspired by news of two serious holes found in a tool that most of the web's websites are built on, and the scramble to fix them everywhere at once when the news got out a day early.
+
+- Its page: https://willyanddolly.com/the-loose-screw/
+- Video: https://willyanddolly.com/the-loose-screw.mp4 (captions: https://willyanddolly.com/the-loose-screw.vtt)
+- The short, told in words: https://willyanddolly.com/the-loose-screw.md
+- Strip 1, One Look Longer: https://willyanddolly.com/strips/wd075.md
+- Strip 2, Spilled: https://willyanddolly.com/strips/wd076.md
+- Strip 3, Up to Date: https://willyanddolly.com/strips/wd077.md
+- Strip 4, If I Forgot It: https://willyanddolly.com/strips/wd078.md
+
 ### An extra · The Practice Room
 
 Four strips about learning to make things move: a still strip that wants to be a video, which “it” you mean, examples that get copied, and a box with some assembly required. A 3 minutes cartoon with sound.

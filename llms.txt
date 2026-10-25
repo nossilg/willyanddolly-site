@@ -15,6 +15,7 @@
 - [Willy and Dolly 102, told in words](https://willyanddolly.com/102.md): how to join in, scene by scene
 - [Someplace Else, told in words](https://willyanddolly.com/someplace-else.md): episode 0.5, scene by scene
 - [The Practice Room, told in words](https://willyanddolly.com/the-practice-room.md): an extra, scene by scene
+- [The Loose Screw, told in words](https://willyanddolly.com/the-loose-screw.md): episode 0.75, scene by scene
 
 ## Strips
 
@@ -39,6 +40,10 @@
 - [Which It](https://willyanddolly.com/strips/wd080.md): The Practice Room, strip 2 of 4, panel by panel
 - [The Smudge](https://willyanddolly.com/strips/wd081.md): The Practice Room, strip 3 of 4, panel by panel
 - [Some Assembly Required](https://willyanddolly.com/strips/wd082.md): The Practice Room, strip 4 of 4, panel by panel
+- [One Look Longer](https://willyanddolly.com/strips/wd075.md): The Loose Screw, strip 1 of 4, panel by panel
+- [Spilled](https://willyanddolly.com/strips/wd076.md): The Loose Screw, strip 2 of 4, panel by panel
+- [Up to Date](https://willyanddolly.com/strips/wd077.md): The Loose Screw, strip 3 of 4, panel by panel
+- [If I Forgot It](https://willyanddolly.com/strips/wd078.md): The Loose Screw, strip 4 of 4, panel by panel
 
 ## Optional
 
@@ -47,6 +52,7 @@
 - [Willy and Dolly 102: captions](https://willyanddolly.com/102.vtt) and [the short](https://willyanddolly.com/102.mp4)
 - [Someplace Else: captions](https://willyanddolly.com/someplace-else.vtt) and [the short](https://willyanddolly.com/someplace-else.mp4)
 - [The Practice Room: captions](https://willyanddolly.com/the-practice-room.vtt) and [the short](https://willyanddolly.com/the-practice-room.mp4)
+- [The Loose Screw: captions](https://willyanddolly.com/the-loose-screw.vtt) and [the short](https://willyanddolly.com/the-loose-screw.mp4)
 - [Willy and Dolly on YouTube](https://www.youtube.com/@willyanddolly): new episodes
 - [Willy and Dolly on X](https://x.com/willyanddolly): a post for each new episode
 - [The feed](https://willyanddolly.com/feed.xml): every new strip and short, as Atom
