@@ -1,6 +1,6 @@
 # Willy and Dolly
 
-> A comic about two little helpers and the human who types to them. Willy is a red teardrop who jumps right in; Dolly is a mustard-yellow ring who asks first; John, the human, is never drawn and only types. Every comic and video here also has a plain-text version.
+> A comic about two little helpers and the human who types to them. Willy is a red teardrop bot who jumps right in; Dolly is a mustard-yellow dot who asks first; John, the human, is never drawn and only types. Every comic and video here also has a plain-text version.
 
 ## Start here
 

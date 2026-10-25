@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Inspired by · Willy and Dolly</title>
+<meta name="description" content="Short sets Willy and Dolly made for things we love.">
+<link rel="canonical" href="https://willyanddolly.com/inspired-by/">
+<link rel="alternate" type="text/markdown" href="/index.md" title="This page as Markdown">
+<link rel="alternate" type="application/atom+xml" href="/feed.xml" title="Willy and Dolly: new strips and shorts">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<meta property="og:type" content="video.episode">
+<meta property="og:site_name" content="Willy and Dolly">
+<meta property="og:title" content="Inspired by · Willy and Dolly">
+<meta property="og:description" content="Short sets Willy and Dolly made for things we love.">
+<meta property="og:url" content="https://willyanddolly.com/inspired-by/">
+<meta property="og:image" content="https://willyanddolly.com/poster.jpg">
+<meta property="og:image:width" content="1080">
+<meta property="og:image:height" content="1080">
+<meta property="og:image:alt" content="Willy, a red teardrop bot, says “On it!” to John’s typed message, “make me a sandwich”, as Dolly, a mustard-yellow dot, watches.">
+<meta property="og:video" content="https://willyanddolly.com/101.mp4">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@willyanddolly">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "CollectionPage", "name": "Inspired by · Willy and Dolly", "url": "https://willyanddolly.com/inspired-by/", "isPartOf": {"@id": "https://willyanddolly.com/#series"}}</script>
+<link rel="preload" href="/fonts/ComicNeue-Bold.woff2" as="font" type="font/woff2" crossorigin>
+<style>
+@font-face{font-family:"Comic Neue";font-weight:400;font-display:swap;src:url(fonts/ComicNeue-Regular.woff2) format("woff2")}
+@font-face{font-family:"Comic Neue";font-weight:700;font-display:swap;src:url(fonts/ComicNeue-Bold.woff2) format("woff2")}
+*{box-sizing:border-box}
+body{margin:0;background:#F7F2E8;color:#1E1B18;font-family:"Comic Neue","Comic Sans MS",sans-serif}
+a{color:#B21F23}a:hover{color:#7E1517}
+main{max-width:1040px;margin:0 auto;padding:72px 32px 48px;display:flex;flex-direction:column;gap:72px}
+header{display:flex;flex-direction:column;align-items:center;gap:18px;text-align:center}
+h1{margin:0;font-size:72px;line-height:1;font-weight:700;letter-spacing:-0.5px}
+.willy{color:#D7262B}.dolly{color:#B07F12}
+.tag{margin:0;font-size:24px;line-height:1.4;max-width:560px}
+h2{margin:0;font-size:34px;font-weight:700;text-align:center}
+.start{display:flex;flex-direction:column;align-items:center;gap:20px}
+.player{position:relative;width:100%;max-width:640px;aspect-ratio:1/1;border:3px solid #1E1B18;border-radius:18px;overflow:hidden;background:#F7F2E8}
+.player video{display:block;width:100%;height:100%}
+.player.music{aspect-ratio:16/9;max-width:720px}.music .play{left:24%;top:82%}.yt{all:unset;cursor:pointer;display:block;width:100%;height:100%}
+.yt img,.player iframe{display:block;width:100%;height:100%;border:0;object-fit:cover}.yt:focus-visible .play{outline:4px solid #B07F12;outline-offset:4px}
+.play{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:104px;height:104px;border-radius:52px;border:3px solid #1E1B18;
+background:#D7262B;cursor:pointer;display:flex;align-items:center;justify-content:center;box-shadow:0 6px 0 #1E1B18;padding:0}
+.play[hidden]{display:none}
+.play:focus-visible{outline:4px solid #B07F12;outline-offset:4px}
+.note{margin:0;font-size:18px;color:#4A433C}.note a{color:#4A433C}
+.strips{display:flex;flex-direction:column;gap:40px}
+figure{margin:0;display:flex;flex-direction:column;gap:12px}
+figcaption{font-size:22px;font-weight:700}figcaption span{color:#B07F12}
+figcaption a{font-size:16px;font-weight:400;margin-left:8px;color:#4A433C}
+.wide{width:100%;height:auto;display:block;border-radius:6px}
+.grid{display:none;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.grid div{aspect-ratio:1/1;border-radius:4px;background-size:422.4% auto;background-repeat:no-repeat}
+.k1{background-position:1.24% 50%}.k2{background-position:33.75% 50%}.k3{background-position:66.25% 50%}.k4{background-position:98.76% 50%}
+footer{border-top:2px solid #E2D9C6;padding-top:24px;text-align:center;font-size:16px;color:#4A433C}
+.inspired{margin:0;font-size:20px;line-height:1.45;max-width:640px;text-align:center}
+.more{font-size:20px;font-weight:700}
+.eps{display:flex;flex-direction:column;gap:24px}
+.ep{display:flex;gap:24px;align-items:center;padding:16px;border:3px solid #1E1B18;border-radius:18px;background:#FFFDF8;color:#1E1B18;text-decoration:none}
+.ep:hover{color:#1E1B18;background:#FFF8EA}
+.ep img{width:160px;height:160px;flex:0 0 160px;border-radius:12px;border:2px solid #1E1B18;object-fit:cover}
+.ep div{display:flex;flex-direction:column;gap:6px;min-width:0}
+.ep .lab{font-size:16px;color:#4A433C}.ep .nm{font-size:28px;font-weight:700}.ep .ab{font-size:18px;line-height:1.4}
+.bar{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}.bar .links a+a{margin-left:20px}
+.home{display:flex;align-items:center;gap:12px;color:#1E1B18;text-decoration:none;font-size:26px;font-weight:700}
+.home:hover{color:#1E1B18}
+main.episode{padding-top:32px;gap:56px}
+.eptitle{display:flex;flex-direction:column;align-items:center;gap:20px;text-align:center}
+.eptitle .num{margin:0;font-size:20px;color:#4A433C}
+.eptitle h1{font-size:64px;letter-spacing:0}
+.epnav{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;font-size:20px}
+.epnav span{color:#4A433C}
+.talk{max-width:720px;margin:0 auto;display:flex;flex-direction:column;gap:18px;font-size:21px;line-height:1.5}
+.talk h1{font-size:56px;letter-spacing:0;text-align:center;margin:8px 0 8px}
+.talk h2{font-size:30px;text-align:left;margin:22px 0 0}
+.talk p,.talk ul,.talk ol{margin:0}.talk li{margin:8px 0}
+.talk ol li::marker{font-weight:700;color:#B07F12}
+@media (max-width:600px){
+.inspired{font-size:17px}.more{font-size:18px;padding:10px 0}.eps{gap:16px}
+.ep{gap:14px;padding:12px;border-radius:16px}.ep img{width:96px;height:96px;flex-basis:96px;border-radius:10px}
+.ep .lab{font-size:14px}.ep .nm{font-size:21px}.ep .ab{font-size:15px;line-height:1.35}
+.home{font-size:20px;gap:8px;padding:8px 0}.home svg{width:50px;height:27px}
+main.episode{padding-top:20px;gap:36px}.talk{font-size:18px}.talk h1{font-size:40px}.talk h2{font-size:24px}.eptitle{gap:14px}.eptitle .num{font-size:16px}.eptitle h1{font-size:44px}
+.epnav{flex-direction:column;align-items:center;gap:6px;font-size:17px;text-align:center}.epnav a{padding:10px 0}
+main{padding:40px 16px 32px;gap:44px}header{gap:12px}header svg{width:100px;height:53px}
+h1{font-size:44px;letter-spacing:0}.tag{font-size:19px}h2{font-size:26px;line-height:1.2}
+.start{gap:14px}.player{border-radius:16px}.play{width:84px;height:84px;border-radius:42px;box-shadow:0 5px 0 #1E1B18}
+.music .play{width:60px;height:60px;border-radius:30px;box-shadow:0 4px 0 #1E1B18;top:80%}.music .play svg{width:24px;height:27px}
+.play svg{width:32px;height:36px}.note{font-size:16px}.strips{gap:32px}figcaption{font-size:20px}
+.wide{display:none}.grid{display:grid}footer{font-size:15px;padding-top:18px}}
+</style>
+<!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "398bf9025b504056a12a1635270ccf9c"}'></script><!-- End Cloudflare Web Analytics -->
+</head>
+<body>
+<main class="episode">
+<nav class="bar" aria-label="Site">
+<a class="home" href="/"><svg width="66" height="35" viewBox="0 0 132 70" aria-hidden="true"><path d="M34,4 C38,20 58,30 58,46 C58,58 47,66 34,66 C21,66 10,58 10,46 C10,30 30,20 34,4 Z" fill="#D7262B" stroke="#1E1B18" stroke-width="3.5" stroke-linejoin="round"/><circle cx="27" cy="47" r="3.4" fill="#1E1B18"/><circle cx="40" cy="47" r="3.4" fill="#1E1B18"/><circle cx="92" cy="44" r="21" fill="none" stroke="#C9971F" stroke-width="5"/><circle cx="86" cy="42" r="2.8" fill="#1E1B18"/><circle cx="96" cy="42" r="2.8" fill="#1E1B18"/><circle cx="119" cy="52" r="2.6" fill="#C9971F"/><circle cx="127" cy="54" r="2.2" fill="#C9971F"/></svg><span><span class="willy">Willy</span> and <span class="dolly">Dolly</span></span></a>
+<span class="links"><a href="/#all">All episodes</a><a href="/inspired-by/">Inspired by</a></span>
+</nav>
+
+<section class="eptitle" aria-labelledby="title">
+<h1 id="title">Inspired by</h1>
+<p class="inspired">Short sets Willy and Dolly made for things we love.</p>
+</section>
+
+<section class="eps" aria-labelledby="omarchy">
+<h2 id="omarchy">Omarchy</h2>
+<p class="note">Omarchy is a keyboard-first Linux desktop. Four shorts for its 4.5 release are on the way. Until then, a song. <a href="https://omarchy.org/">omarchy.org</a></p>
+<div class="player music"><button class="yt" data-yt="OEzuxKiTh0c" aria-label="Play Super Spacegrass from YouTube"><img src="/super-spacegrass.jpg" alt="“Super Spacegrass, a Willy and Dolly lyric video” over a deep-space photo, beside a panel where Willy, on a box marked SUPER, shouts “SUPER!” as Dolly peeks in." width="1280" height="720" loading="lazy"><span class="play"><svg width="40" height="44" viewBox="0 0 40 44" aria-hidden="true"><path d="M8,4 L36,22 L8,40 Z" fill="#F7F2E8" stroke="#F7F2E8" stroke-width="4" stroke-linejoin="round"/></svg></span></button></div>
+<p class="note"><a href="https://youtu.be/OEzuxKiTh0c">Now playing: &quot;Super Spacegrass,&quot; a music video with Willy and Dolly as guests. Watch on YouTube →</a> Plays from YouTube. <small>Thumbnail background: ESA/Webb, NASA, ESA, CSA, and STScI (CC BY 4.0)</small></p>
+<script>document.querySelectorAll(".yt").forEach(function(b){b.addEventListener("click",function(){var f=document.createElement("iframe");f.src="https://www.youtube-nocookie.com/embed/"+b.dataset.yt+"?autoplay=1";f.title=b.getAttribute("aria-label");f.allow="autoplay; encrypted-media; picture-in-picture; fullscreen";f.allowFullscreen=true;b.replaceWith(f);});});</script>
+</section>
+
+<footer>Willy and Dolly · 2026 · <a href="/talk/">Talk to us</a><br><small>We count visits anonymously, with no cookies.</small></footer>
+</main>
+</body>
+</html>

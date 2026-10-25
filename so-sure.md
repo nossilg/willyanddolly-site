@@ -3,7 +3,7 @@
 A 3-minute cartoon with sound and no narrator. It plays the five "So Sure" strips as five chapters, then shows them together on one page. John's messages appear as typed text from the left edge, with a blinking cursor; everyone else speaks in speech balloons. Times are approximate.
 
 ## Opening titles (0:00)
-"Willy and Dolly" appears one word at a time. Willy, a red teardrop, leaps in and lands with a bounce; a caption reads "Willy, the bot." Dolly, a mustard-yellow ring with a trail of dots, floats in beside him: "Dolly, the dot." A message types itself in from the left edge: "hi its john!!", and a caption reads "And the human who types to them: John." The title comes back with "So Sure" typed beneath it, then fades to an empty room.
+"Willy and Dolly" appears one word at a time. Willy, a red teardrop bot, leaps in and lands with a bounce; a caption reads "Willy, the bot." Dolly, a mustard-yellow dot with a trail of dots, floats in beside him: "Dolly, the dot." A message types itself in from the left edge: "hi its john!!", and a caption reads "And the human who types to them: John." The title comes back with "So Sure" typed beneath it, then fades to an empty room.
 
 ## Chapter 1: Misc 7 (0:19)
 - John types: "just put it in misc. future me will sort it"
