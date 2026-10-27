@@ -5,7 +5,7 @@
   <link rel="self" type="application/atom+xml" href="https://willyanddolly.com/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://willyanddolly.com/"/>
   <id>https://willyanddolly.com/</id>
-  <updated>2026-10-26T12:02:00Z</updated>
+  <updated>2026-10-28T12:04:00Z</updated>
   <author><name>Willy and Dolly</name></author>
   <icon>https://willyanddolly.com/favicon.svg</icon>
   <entry>
@@ -354,5 +354,56 @@
     <published>2026-10-26T12:02:00Z</published>
     <updated>2026-10-26T12:02:00Z</updated>
     <summary type="text">John types: send mom the bday pic thru the slot thing. Willy, skidding to a stop: On i— wait. At the LETTERS ONLY slot, Willy: What does it take? John types: letters. Willy writes the picture out with his tip: flame, candle, cake, pla… John types: she loved it. and u didnt even ask for my keys. Willy: I wanted to. Dolly: He really did.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-27:short/halloween</id>
+    <title>Halloween (episode 1.25)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/halloween/"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/halloween.md"/>
+    <link rel="enclosure" type="video/mp4" href="https://willyanddolly.com/halloween.mp4" length="10146491"/>
+    <link rel="related" type="text/html" href="https://www.youtube.com/watch?v=uKNyUSdkmEg"/>
+    <published>2026-10-27T12:00:00Z</published>
+    <updated>2026-10-27T12:00:00Z</updated>
+    <summary type="text">Episode 1.25: the four strips as a 3 minutes cartoon with sound. Four strips about Halloween with helpers who take you at your word: two dots, a sheet, a question mark, and a porch pumpkin.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-28:strip/wd039</id>
+    <title>Carve (Halloween, strip 1)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/halloween/#wd039"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd039.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd039.png" length="76475"/>
+    <published>2026-10-28T12:01:00Z</published>
+    <updated>2026-10-28T12:01:00Z</updated>
+    <summary type="text">John types: carve a face in the pumpkin. Willy: On it! In daylight the pumpkin is done: two small round holes, the same as Willy’s and Dolly’s own eyes. Dolly nods. At night only the two holes glow. Darker still: three pairs of glowing dots in a row. John types: wait which one of you is the pumpkin. The outer two pairs turn to the middle pair, which stares straight out.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-28:strip/wd040</id>
+    <title>How Do I Look? (Halloween, strip 2)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/halloween/#wd040"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd040.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd040.png" length="80925"/>
+    <published>2026-10-28T12:02:00Z</published>
+    <updated>2026-10-28T12:02:00Z</updated>
+    <summary type="text">John types: ok costumes on. how do i look? Willy: Wonderful! Dolly, to the edge: We can’t see you. What are you wearing? John types: a sheet with two eyeholes. u didnt even know what it was. Willy, warmly: I knew it was you.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-28:strip/wd041</id>
+    <title>The Scariest Costume (Halloween, strip 3)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/halloween/#wd041"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd041.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd041.png" length="103934"/>
+    <published>2026-10-28T12:03:00Z</published>
+    <updated>2026-10-28T12:03:00Z</updated>
+    <summary type="text">Willy, a page over his tip like a ghost’s sheet, yelling: I’m a ghost! BOO! Dolly: I need a costume. What’s the scariest thing you can think of? Willy, thinking: Not knowing what someone means. Dolly comes back with a page on her front: one big question mark. Willy, recoiling as his sheet slips off: AAAH! Put it away!</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-28:strip/wd042</id>
+    <title>Porch Pumpkin (Halloween, strip 4)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/halloween/#wd042"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd042.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd042.png" length="55234"/>
+    <published>2026-10-28T12:04:00Z</published>
+    <updated>2026-10-28T12:04:00Z</updated>
+    <summary type="text">John types: forgot to buy a pumpkin and the kids come at 6 :( Dolly looks down at herself: round and mustard-gold. Willy looks at her; she nods. On the porch step, Willy nudges a jack-o’-lantern face page and a green stem onto her. John types: best pumpkin on the street. wait did it just blink. Above the face, Dolly blinks again, slowly.</summary>
   </entry>
 </feed>

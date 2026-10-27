@@ -4,6 +4,20 @@ A comic about two little helpers and the human who types to them.
 
 ## Episodes, newest first
 
+### Episode 1.25 · Halloween
+
+Four strips about Halloween with helpers who take you at your word: two dots, a sheet, a question mark, and a porch pumpkin. A 3 minutes cartoon with sound.
+
+Inspired by Halloween at home with helpers who take you at your word. To a bot, a face is two dots.
+
+- Its page: https://willyanddolly.com/halloween/
+- Video: https://willyanddolly.com/halloween.mp4 (captions: https://willyanddolly.com/halloween.vtt)
+- The short, told in words: https://willyanddolly.com/halloween.md
+- Strip 1, Carve: https://willyanddolly.com/strips/wd039.md
+- Strip 2, How Do I Look?: https://willyanddolly.com/strips/wd040.md
+- Strip 3, The Scariest Costume: https://willyanddolly.com/strips/wd041.md
+- Strip 4, Porch Pumpkin: https://willyanddolly.com/strips/wd042.md
+
 ### Episode 1 · Letters Only
 
 One birthday photo, one slot that takes letters only, and two ways to help: every key in the house, or one question. A 1 minute cartoon with sound.

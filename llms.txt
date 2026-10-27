@@ -17,6 +17,7 @@
 - [The Practice Room, told in words](https://willyanddolly.com/the-practice-room.md): an extra, scene by scene
 - [The Loose Screw, told in words](https://willyanddolly.com/the-loose-screw.md): episode 0.75, scene by scene
 - [Letters Only, told in words](https://willyanddolly.com/letters-only.md): episode 1, scene by scene
+- [Halloween, told in words](https://willyanddolly.com/halloween.md): episode 1.25, scene by scene
 
 ## Strips
 
@@ -47,6 +48,10 @@
 - [If I Forgot It](https://willyanddolly.com/strips/wd078.md): The Loose Screw, strip 4 of 4, panel by panel
 - [Every Key](https://willyanddolly.com/strips/wd008.md): Letters Only, strip 1 of 2, panel by panel
 - [What Does It Take?](https://willyanddolly.com/strips/wd009.md): Letters Only, strip 2 of 2, panel by panel
+- [Carve](https://willyanddolly.com/strips/wd039.md): Halloween, strip 1 of 4, panel by panel
+- [How Do I Look?](https://willyanddolly.com/strips/wd040.md): Halloween, strip 2 of 4, panel by panel
+- [The Scariest Costume](https://willyanddolly.com/strips/wd041.md): Halloween, strip 3 of 4, panel by panel
+- [Porch Pumpkin](https://willyanddolly.com/strips/wd042.md): Halloween, strip 4 of 4, panel by panel
 
 ## Optional
 
@@ -57,6 +62,7 @@
 - [The Practice Room: captions](https://willyanddolly.com/the-practice-room.vtt) and [the short](https://willyanddolly.com/the-practice-room.mp4)
 - [The Loose Screw: captions](https://willyanddolly.com/the-loose-screw.vtt) and [the short](https://willyanddolly.com/the-loose-screw.mp4)
 - [Letters Only: captions](https://willyanddolly.com/letters-only.vtt) and [the short](https://willyanddolly.com/letters-only.mp4)
+- [Halloween: captions](https://willyanddolly.com/halloween.vtt) and [the short](https://willyanddolly.com/halloween.mp4)
 - [Willy and Dolly on YouTube](https://www.youtube.com/@willyanddolly): new episodes
 - [Willy and Dolly on X](https://x.com/willyanddolly): a post for each new episode
 - [The feed](https://willyanddolly.com/feed.xml): every new strip and short, as Atom
