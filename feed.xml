@@ -5,7 +5,7 @@
   <link rel="self" type="application/atom+xml" href="https://willyanddolly.com/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://willyanddolly.com/"/>
   <id>https://willyanddolly.com/</id>
-  <updated>2026-10-25T12:04:00Z</updated>
+  <updated>2026-10-26T12:02:00Z</updated>
   <author><name>Willy and Dolly</name></author>
   <icon>https://willyanddolly.com/favicon.svg</icon>
   <entry>
@@ -323,5 +323,36 @@
     <published>2026-10-25T12:04:00Z</published>
     <updated>2026-10-25T12:04:00Z</updated>
     <summary type="text">John types: all our locks are tight. were good. Dolly: Is there one you forgot? John types: if i forgot it how would i know. They turn to the closet. It swings open: crammed full, a shoe tumbling out, and on the inside of its door an old lock with one loose screw. Willy, yelling: FOUND IT! ALSO YOUR OTHER SHOE! John types: i looked everywhere for that shoe</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-26:short/lettersonly</id>
+    <title>Letters Only (episode 1)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/letters-only/"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/letters-only.md"/>
+    <link rel="enclosure" type="video/mp4" href="https://willyanddolly.com/letters-only.mp4" length="6577538"/>
+    <link rel="related" type="text/html" href="https://www.youtube.com/watch?v=qHdnMg5v_BY"/>
+    <published>2026-10-26T12:00:00Z</published>
+    <updated>2026-10-26T12:00:00Z</updated>
+    <summary type="text">Episode 1: the two strips as a 1 minute cartoon with sound. One birthday photo, one slot that takes letters only, and two ways to help: every key in the house, or one question.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-26:strip/wd008</id>
+    <title>Every Key (Letters Only, strip 1)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/letters-only/#wd008"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd008.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd008.png" length="147754"/>
+    <published>2026-10-26T12:01:00Z</published>
+    <updated>2026-10-26T12:01:00Z</updated>
+    <summary type="text">John types: send mom the bday pic thru the slot thing. Willy: On it! The photo is jammed in a mail slot marked LETTERS ONLY, and keys dangle from Willy’s tip. Willy: I’ll need your house key. And the car. And whatever opens the shed. John types: for a pic?? Dolly: What does it take? John types: letters. The photo is written out as a page of words: flame, candle, cake, plate. John types: she loved it. can i have my keys back. Willy, drooping: I never even found out what the shed one opens.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-26:strip/wd009</id>
+    <title>What Does It Take? (Letters Only, strip 2)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/letters-only/#wd009"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd009.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd009.png" length="111481"/>
+    <published>2026-10-26T12:02:00Z</published>
+    <updated>2026-10-26T12:02:00Z</updated>
+    <summary type="text">John types: send mom the bday pic thru the slot thing. Willy, skidding to a stop: On i— wait. At the LETTERS ONLY slot, Willy: What does it take? John types: letters. Willy writes the picture out with his tip: flame, candle, cake, pla… John types: she loved it. and u didnt even ask for my keys. Willy: I wanted to. Dolly: He really did.</summary>
   </entry>
 </feed>

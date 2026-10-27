@@ -4,6 +4,18 @@ A comic about two little helpers and the human who types to them.
 
 ## Episodes, newest first
 
+### Episode 1 · Letters Only
+
+One birthday photo, one slot that takes letters only, and two ways to help: every key in the house, or one question. A 1 minute cartoon with sound.
+
+Inspired by helpers that ask for the keys to everything when one question about the task would do.
+
+- Its page: https://willyanddolly.com/letters-only/
+- Video: https://willyanddolly.com/letters-only.mp4 (captions: https://willyanddolly.com/letters-only.vtt)
+- The short, told in words: https://willyanddolly.com/letters-only.md
+- Strip 1, Every Key: https://willyanddolly.com/strips/wd008.md
+- Strip 2, What Does It Take?: https://willyanddolly.com/strips/wd009.md
+
 ### Episode 0.75 · The Loose Screw
 
 Four strips about one loose screw in a lock everyone shares, and the one you forgot. A 3 minutes cartoon with sound.
