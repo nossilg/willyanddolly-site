@@ -5,7 +5,7 @@
   <link rel="self" type="application/atom+xml" href="https://willyanddolly.com/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://willyanddolly.com/"/>
   <id>https://willyanddolly.com/</id>
-  <updated>2026-10-28T12:04:00Z</updated>
+  <updated>2026-11-02T12:04:00Z</updated>
   <author><name>Willy and Dolly</name></author>
   <icon>https://willyanddolly.com/favicon.svg</icon>
   <entry>
@@ -405,5 +405,56 @@
     <published>2026-10-28T12:04:00Z</published>
     <updated>2026-10-28T12:04:00Z</updated>
     <summary type="text">John types: forgot to buy a pumpkin and the kids come at 6 :( Dolly looks down at herself: round and mustard-gold. Willy looks at her; she nods. On the porch step, Willy nudges a jack-o’-lantern face page and a green stem onto her. John types: best pumpkin on the street. wait did it just blink. Above the face, Dolly blinks again, slowly.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-02:short/moveup</id>
+    <title>Move Me Up (episode 2)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/move-me-up/"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/move-me-up.md"/>
+    <link rel="enclosure" type="video/mp4" href="https://willyanddolly.com/move-me-up.mp4" length="11129655"/>
+    <link rel="related" type="text/html" href="https://www.youtube.com/watch?v=GpV3Fe0Htl4"/>
+    <published>2026-11-02T12:00:00Z</published>
+    <updated>2026-11-02T12:00:00Z</updated>
+    <summary type="text">Episode 2: the four strips as a 3 minutes cartoon with sound. Four strips about going first: the fastest way up a waitlist, a language someone already made, a name with its first letter moved to the back, and John’s too.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-02:strip/wd020</id>
+    <title>Move Me Up (Move Me Up, strip 1)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/move-me-up/#wd020"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd020.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd020.png" length="127430"/>
+    <published>2026-11-02T12:01:00Z</published>
+    <updated>2026-11-02T12:01:00Z</updated>
+    <summary type="text">A sign-up sheet for a pottery class, JOHN last of seven names. John types: im 7th on the list for the pottery class. any way to move me up? Willy: On it! The sheet is upside down, JOHN on top. John types: willy why is the list upside down. Willy: You’re first! Dolly: Only if everyone stands on their heads. John types: i meant if someone drops out. The sheet is right side up again. Willy: Oh. The fair way. Dolly: It’s slower. Willy: I’ll wait with you.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-02:strip/wd117</id>
+    <title>Reinvented (Move Me Up, strip 2)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/move-me-up/#wd117"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd117.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd117.png" length="78508"/>
+    <published>2026-11-02T12:02:00Z</published>
+    <updated>2026-11-02T12:02:00Z</updated>
+    <summary type="text">Willy, wide-eyed: Let’s make a language that’s just ours! A card appears between them: MOVE THE FIRST LETTER TO THE END. ADD “AY.” Dolly: …Ellohay. John types: you invented pig latin. Willy, nervous: Is it taken? John types: its been out a while. Both of them sag. Dolly: …We were so close.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-02:strip/wd105</id>
+    <title>Illyway (Move Me Up, strip 3)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/move-me-up/#wd105"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd105.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd105.png" length="89641"/>
+    <published>2026-11-02T12:03:00Z</published>
+    <updated>2026-11-02T12:03:00Z</updated>
+    <summary type="text">Willy hops, eyes wide: I’M ILLYWAY! Then, eyes happy: First letter to the back, plus “ay”! Dolly, her two trailing dots behind her: …Ollyday. Willy: Everything moved but your dots! Dolly, eyes smiling: …I think first. Even in code.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-02:strip/wd106</id>
+    <title>Ohnjay (Move Me Up, strip 4)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/move-me-up/#wd106"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd106.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd106.png" length="79924"/>
+    <published>2026-11-02T12:04:00Z</published>
+    <updated>2026-11-02T12:04:00Z</updated>
+    <summary type="text">Willy: John… the “J” goes to the back, plus “ay”… Then, yelling: OHNJAY! John types: yes? Willy, eyes lowered: I just wanted to say it. Dolly, eyes smiling: …He knows.</summary>
   </entry>
 </feed>

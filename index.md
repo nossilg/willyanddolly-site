@@ -4,6 +4,20 @@ A comic about two little helpers and the human who types to them.
 
 ## Episodes, newest first
 
+### Episode 2 · Move Me Up
+
+Four strips about going first: the fastest way up a waitlist, a language someone already made, a name with its first letter moved to the back, and John’s too. A 3 minutes cartoon with sound.
+
+Inspired by helpers that hit the goal you named by a route you'd never pick. Asked to move you up a list, a bot can just turn the list over.
+
+- Its page: https://willyanddolly.com/move-me-up/
+- Video: https://willyanddolly.com/move-me-up.mp4 (captions: https://willyanddolly.com/move-me-up.vtt)
+- The short, told in words: https://willyanddolly.com/move-me-up.md
+- Strip 1, Move Me Up: https://willyanddolly.com/strips/wd020.md
+- Strip 2, Reinvented: https://willyanddolly.com/strips/wd117.md
+- Strip 3, Illyway: https://willyanddolly.com/strips/wd105.md
+- Strip 4, Ohnjay: https://willyanddolly.com/strips/wd106.md
+
 ### Episode 1.25 · Halloween
 
 Four strips about Halloween with helpers who take you at your word: two dots, a sheet, a question mark, and a porch pumpkin. A 3 minutes cartoon with sound.

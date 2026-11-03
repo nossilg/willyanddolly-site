@@ -18,6 +18,7 @@
 - [The Loose Screw, told in words](https://willyanddolly.com/the-loose-screw.md): episode 0.75, scene by scene
 - [Letters Only, told in words](https://willyanddolly.com/letters-only.md): episode 1, scene by scene
 - [Halloween, told in words](https://willyanddolly.com/halloween.md): episode 1.25, scene by scene
+- [Move Me Up, told in words](https://willyanddolly.com/move-me-up.md): episode 2, scene by scene
 
 ## Strips
 
@@ -52,6 +53,10 @@
 - [How Do I Look?](https://willyanddolly.com/strips/wd040.md): Halloween, strip 2 of 4, panel by panel
 - [The Scariest Costume](https://willyanddolly.com/strips/wd041.md): Halloween, strip 3 of 4, panel by panel
 - [Porch Pumpkin](https://willyanddolly.com/strips/wd042.md): Halloween, strip 4 of 4, panel by panel
+- [Move Me Up](https://willyanddolly.com/strips/wd020.md): Move Me Up, strip 1 of 4, panel by panel
+- [Reinvented](https://willyanddolly.com/strips/wd117.md): Move Me Up, strip 2 of 4, panel by panel
+- [Illyway](https://willyanddolly.com/strips/wd105.md): Move Me Up, strip 3 of 4, panel by panel
+- [Ohnjay](https://willyanddolly.com/strips/wd106.md): Move Me Up, strip 4 of 4, panel by panel
 
 ## Optional
 
@@ -63,6 +68,7 @@
 - [The Loose Screw: captions](https://willyanddolly.com/the-loose-screw.vtt) and [the short](https://willyanddolly.com/the-loose-screw.mp4)
 - [Letters Only: captions](https://willyanddolly.com/letters-only.vtt) and [the short](https://willyanddolly.com/letters-only.mp4)
 - [Halloween: captions](https://willyanddolly.com/halloween.vtt) and [the short](https://willyanddolly.com/halloween.mp4)
+- [Move Me Up: captions](https://willyanddolly.com/move-me-up.vtt) and [the short](https://willyanddolly.com/move-me-up.mp4)
 - [Willy and Dolly on YouTube](https://www.youtube.com/@willyanddolly): new episodes
 - [Willy and Dolly on X](https://x.com/willyanddolly): a post for each new episode
 - [The feed](https://willyanddolly.com/feed.xml): every new strip and short, as Atom
