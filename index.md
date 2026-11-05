@@ -4,6 +4,33 @@ A comic about two little helpers and the human who types to them.
 
 ## Episodes, newest first
 
+### Inspired by Omarchy, 2 of 2 · Side by Side
+
+Five strips about a workspace where everyone gets their own tile, and the neighbor who was there all along. A 3 minutes cartoon with sound.
+
+Inspired by Omarchy, the keyboard-first Linux desktop, where every window gets its own tile and a key called Super does the rest.
+
+- Its page: https://willyanddolly.com/side-by-side/
+- Video: https://willyanddolly.com/side-by-side.mp4 (captions: https://willyanddolly.com/side-by-side.vtt)
+- The short, told in words: https://willyanddolly.com/side-by-side.md
+- Strip 1, Knock First: https://willyanddolly.com/strips/wd051.md
+- Strip 2, The Super Key: https://willyanddolly.com/strips/wd052.md
+- Strip 3, Goodnight, Tile: https://willyanddolly.com/strips/wd053.md
+- Strip 4, Neighbors: https://willyanddolly.com/strips/wd054.md
+- Strip 5, Name Tags: https://willyanddolly.com/strips/wd070.md
+
+### Inspired by Omarchy, 1 of 2 · Four and a Half
+
+Two strips for a release day: fifty languages, one answer, and a little room of their own. A 2 minutes cartoon with sound.
+
+Inspired by Omarchy, the keyboard-first Linux desktop, and its 4.5 release: fifty languages, and a little console that drops down as a home for an agent. Made for release day.
+
+- Its page: https://willyanddolly.com/four-and-a-half/
+- Video: https://willyanddolly.com/four-and-a-half.mp4 (captions: https://willyanddolly.com/four-and-a-half.vtt)
+- The short, told in words: https://willyanddolly.com/four-and-a-half.md
+- Strip 1, All of Them: https://willyanddolly.com/strips/wd089.md
+- Strip 2, A Room for Us: https://willyanddolly.com/strips/wd090.md
+
 ### Episode 2 · Move Me Up
 
 Four strips about going first: the fastest way up a waitlist, a language someone already made, a name with its first letter moved to the back, and John’s too. A 3 minutes cartoon with sound.

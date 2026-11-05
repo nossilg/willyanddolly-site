@@ -19,6 +19,8 @@
 - [Letters Only, told in words](https://willyanddolly.com/letters-only.md): episode 1, scene by scene
 - [Halloween, told in words](https://willyanddolly.com/halloween.md): episode 1.25, scene by scene
 - [Move Me Up, told in words](https://willyanddolly.com/move-me-up.md): episode 2, scene by scene
+- [Four and a Half, told in words](https://willyanddolly.com/four-and-a-half.md): 1 of 2, scene by scene
+- [Side by Side, told in words](https://willyanddolly.com/side-by-side.md): 2 of 2, scene by scene
 
 ## Strips
 
@@ -57,6 +59,13 @@
 - [Reinvented](https://willyanddolly.com/strips/wd117.md): Move Me Up, strip 2 of 4, panel by panel
 - [Illyway](https://willyanddolly.com/strips/wd105.md): Move Me Up, strip 3 of 4, panel by panel
 - [Ohnjay](https://willyanddolly.com/strips/wd106.md): Move Me Up, strip 4 of 4, panel by panel
+- [All of Them](https://willyanddolly.com/strips/wd089.md): Four and a Half, strip 1 of 2, panel by panel
+- [A Room for Us](https://willyanddolly.com/strips/wd090.md): Four and a Half, strip 2 of 2, panel by panel
+- [Knock First](https://willyanddolly.com/strips/wd051.md): Side by Side, strip 1 of 5, panel by panel
+- [The Super Key](https://willyanddolly.com/strips/wd052.md): Side by Side, strip 2 of 5, panel by panel
+- [Goodnight, Tile](https://willyanddolly.com/strips/wd053.md): Side by Side, strip 3 of 5, panel by panel
+- [Neighbors](https://willyanddolly.com/strips/wd054.md): Side by Side, strip 4 of 5, panel by panel
+- [Name Tags](https://willyanddolly.com/strips/wd070.md): Side by Side, strip 5 of 5, panel by panel
 
 ## Optional
 
@@ -69,6 +78,8 @@
 - [Letters Only: captions](https://willyanddolly.com/letters-only.vtt) and [the short](https://willyanddolly.com/letters-only.mp4)
 - [Halloween: captions](https://willyanddolly.com/halloween.vtt) and [the short](https://willyanddolly.com/halloween.mp4)
 - [Move Me Up: captions](https://willyanddolly.com/move-me-up.vtt) and [the short](https://willyanddolly.com/move-me-up.mp4)
+- [Four and a Half: captions](https://willyanddolly.com/four-and-a-half.vtt) and [the short](https://willyanddolly.com/four-and-a-half.mp4)
+- [Side by Side: captions](https://willyanddolly.com/side-by-side.vtt) and [the short](https://willyanddolly.com/side-by-side.mp4)
 - [Willy and Dolly on YouTube](https://www.youtube.com/@willyanddolly): new episodes
 - [Willy and Dolly on X](https://x.com/willyanddolly): a post for each new episode
 - [The feed](https://willyanddolly.com/feed.xml): every new strip and short, as Atom

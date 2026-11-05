@@ -5,7 +5,7 @@
   <link rel="self" type="application/atom+xml" href="https://willyanddolly.com/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://willyanddolly.com/"/>
   <id>https://willyanddolly.com/</id>
-  <updated>2026-11-02T12:04:00Z</updated>
+  <updated>2026-11-05T12:05:00Z</updated>
   <author><name>Willy and Dolly</name></author>
   <icon>https://willyanddolly.com/favicon.svg</icon>
   <entry>
@@ -456,5 +456,97 @@
     <published>2026-11-02T12:04:00Z</published>
     <updated>2026-11-02T12:04:00Z</updated>
     <summary type="text">Willy: John… the “J” goes to the back, plus “ay”… Then, yelling: OHNJAY! John types: yes? Willy, eyes lowered: I just wanted to say it. Dolly, eyes smiling: …He knows.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-05:short/fourandahalf</id>
+    <title>Four and a Half (1 of 2)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/four-and-a-half/"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/four-and-a-half.md"/>
+    <link rel="enclosure" type="video/mp4" href="https://willyanddolly.com/four-and-a-half.mp4" length="7398487"/>
+    <link rel="related" type="text/html" href="https://youtu.be/rNW1xId7jNc"/>
+    <published>2026-11-05T12:00:00Z</published>
+    <updated>2026-11-05T12:00:00Z</updated>
+    <summary type="text">1 of 2: the two strips as a 2 minutes cartoon with sound. Two strips for a release day: fifty languages, one answer, and a little room of their own.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-05:strip/wd089</id>
+    <title>All of Them (Four and a Half, strip 1)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/four-and-a-half/#wd089"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd089.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd089.png" length="110518"/>
+    <published>2026-11-05T12:01:00Z</published>
+    <updated>2026-11-05T12:01:00Z</updated>
+    <summary type="text">John types: big update. it speaks 50 languages now! Willy: HOLA! Willy: BONJOUR! CIAO! KONNICHIWA! John types: dolly, try one. Dolly: … Willy: Which language was that? Dolly: …All of them.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-05:strip/wd090</id>
+    <title>A Room for Us (Four and a Half, strip 2)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/four-and-a-half/#wd090"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd090.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd090.png" length="98937"/>
+    <published>2026-11-05T12:02:00Z</published>
+    <updated>2026-11-05T12:02:00Z</updated>
+    <summary type="text">John types: theres a little room just for agents now. Willy: FOR US?! A small bright room with two cushions lowers from the top edge. Dolly, peeking in: …It’s small. Willy: It’s cozy! John types: one key and i can visit. Dolly, settled on a cushion: …Then it’s home.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-05:short/sidebyside</id>
+    <title>Side by Side (2 of 2)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/side-by-side/"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/side-by-side.md"/>
+    <link rel="enclosure" type="video/mp4" href="https://willyanddolly.com/side-by-side.mp4" length="14430979"/>
+    <link rel="related" type="text/html" href="https://youtu.be/cgo5V3JBa9g"/>
+    <published>2026-11-05T12:00:00Z</published>
+    <updated>2026-11-05T12:00:00Z</updated>
+    <summary type="text">2 of 2: the five strips as a 3 minutes cartoon with sound. Five strips about a workspace where everyone gets their own tile, and the neighbor who was there all along.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-05:strip/wd051</id>
+    <title>Knock First (Side by Side, strip 1)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/side-by-side/#wd051"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd051.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd051.png" length="85878"/>
+    <published>2026-11-05T12:01:00Z</published>
+    <updated>2026-11-05T12:01:00Z</updated>
+    <summary type="text">A row of three tiles: John’s empty one, Willy’s, Dolly’s. John types: lets all work side by side today. everyone gets their own tile. Dolly: A tile is a box on the screen. One job per box. Willy bounces off the border: Ow! The edges are firm! Then Dolly is inside Willy’s tile. Willy: How did you get in? Dolly: I asked.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-05:strip/wd052</id>
+    <title>The Super Key (Side by Side, strip 2)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/side-by-side/#wd052"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd052.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd052.png" length="92072"/>
+    <published>2026-11-05T12:02:00Z</published>
+    <updated>2026-11-05T12:02:00Z</updated>
+    <summary type="text">A big key on the floor says SUPER. John types: just hit super and type what u want. Dolly: Super is a real key. Willy throws himself onto it: SUPER! Nothing happens. Dolly: Now the part where he says what he wants. Willy holds out a page: SANDWICH. John types: a sandwich.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-05:strip/wd053</id>
+    <title>Goodnight, Tile (Side by Side, strip 3)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/side-by-side/#wd053"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd053.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd053.png" length="70770"/>
+    <published>2026-11-05T12:03:00Z</published>
+    <updated>2026-11-05T12:03:00Z</updated>
+    <summary type="text">Three tiles, the third holding a finished page. John types: done with that one. close it with a key. Dolly: Closing a tile puts the job away. Willy searches the floor. Dolly: Which key? John types: any key. just say goodnight lol. Willy, softly, as the third tile closes: Goodnight, tile.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-05:strip/wd054</id>
+    <title>Neighbors (Side by Side, strip 4)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/side-by-side/#wd054"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd054.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd054.png" length="64473"/>
+    <published>2026-11-05T12:04:00Z</published>
+    <updated>2026-11-05T12:04:00Z</updated>
+    <summary type="text">Three tiles: Willy’s, Dolly’s, and a tall one at the edge with only John’s words. John types: side by side today? Dolly, peeking over the line: That tile is where John types. Dolly: He’s been right next to us the whole time. Willy: Hi, neighbor! John types: hi lol.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-05:strip/wd070</id>
+    <title>Name Tags (Side by Side, strip 5)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/side-by-side/#wd070"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd070.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd070.png" length="69168"/>
+    <published>2026-11-05T12:05:00Z</published>
+    <updated>2026-11-05T12:05:00Z</updated>
+    <summary type="text">Three tiles, a hand-lettered sign in each: JOHN, WILLY, DOLLY. John types: the whole point is no labels lol. Willy turns the signs face-down, sadly. Dolly: Then how will we know which tile is you? John types: im the one typing. Willy, beaming: Oh! That’s the best label.</summary>
   </entry>
 </feed>
