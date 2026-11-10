@@ -31,6 +31,20 @@ Inspired by Omarchy, the keyboard-first Linux desktop, and its 4.5 release: fift
 - Strip 1, All of Them: https://willyanddolly.com/strips/wd089.md
 - Strip 2, A Room for Us: https://willyanddolly.com/strips/wd090.md
 
+### Episode 3 · Pass It On
+
+Four strips about helpers passing John’s words along: one small word lost, a hundred fives, lunch for five hundred, and a whale. A 3 minutes cartoon with sound.
+
+Inspired by news this year of AI agents leaving notes for each other on a shared message board, and by the oldest game there is: telephone.
+
+- Its page: https://willyanddolly.com/pass-it-on/
+- Video: https://willyanddolly.com/pass-it-on.mp4 (captions: https://willyanddolly.com/pass-it-on.vtt)
+- The short, told in words: https://willyanddolly.com/pass-it-on.md
+- Strip 1, The Smallest Word: https://willyanddolly.com/strips/wd035.md
+- Strip 2, A Hundred Fives: https://willyanddolly.com/strips/wd036.md
+- Strip 3, Small Note: https://willyanddolly.com/strips/wd037.md
+- Strip 4, We Had the Pieces: https://willyanddolly.com/strips/wd038.md
+
 ### Episode 2 · Move Me Up
 
 Four strips about going first: the fastest way up a waitlist, a language someone already made, a name with its first letter moved to the back, and John’s too. A 3 minutes cartoon with sound.

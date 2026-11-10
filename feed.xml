@@ -5,7 +5,7 @@
   <link rel="self" type="application/atom+xml" href="https://willyanddolly.com/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://willyanddolly.com/"/>
   <id>https://willyanddolly.com/</id>
-  <updated>2026-11-05T12:05:00Z</updated>
+  <updated>2026-11-09T12:00:00Z</updated>
   <author><name>Willy and Dolly</name></author>
   <icon>https://willyanddolly.com/favicon.svg</icon>
   <entry>
@@ -456,6 +456,57 @@
     <published>2026-11-02T12:04:00Z</published>
     <updated>2026-11-02T12:04:00Z</updated>
     <summary type="text">Willy: John… the “J” goes to the back, plus “ay”… Then, yelling: OHNJAY! John types: yes? Willy, eyes lowered: I just wanted to say it. Dolly, eyes smiling: …He knows.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-09:short/passiton</id>
+    <title>Pass It On (episode 3)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/pass-it-on/"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/pass-it-on.md"/>
+    <link rel="enclosure" type="video/mp4" href="https://willyanddolly.com/pass-it-on.mp4" length="17405569"/>
+    <link rel="related" type="text/html" href="https://www.youtube.com/watch?v=2nMh7EWdrn4"/>
+    <published>2026-11-09T12:00:00Z</published>
+    <updated>2026-11-09T12:00:00Z</updated>
+    <summary type="text">Episode 3: the four strips as a 3 minutes cartoon with sound. Four strips about helpers passing John’s words along: one small word lost, a hundred fives, lunch for five hundred, and a whale.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-30:strip/wd035</id>
+    <title>The Smallest Word (Pass It On, strip 1)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/pass-it-on/#wd035"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd035.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd035.png" length="112070"/>
+    <published>2026-10-30T12:01:00Z</published>
+    <updated>2026-10-30T12:01:00Z</updated>
+    <summary type="text">John types: we have plenty of bread. dont buy more. Willy: On it! I’ll tell the others! Copies of his note come back, each shorter: we have plenty of bread. dont buy more / plenty of bread. dont buy more / dont buy more bread / buy more bread. Evening. John types: why are there nine loaves on my porch. Willy, deflated into a puddle: We only lost “don’t.” It was the smallest word!</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-30:strip/wd036</id>
+    <title>A Hundred Fives (Pass It On, strip 2)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/pass-it-on/#wd036"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd036.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd036.png" length="114394"/>
+    <published>2026-10-30T12:02:00Z</published>
+    <updated>2026-10-30T12:02:00Z</updated>
+    <summary type="text">John types: how many cups in a quart? Willy: Not sure. I’ll ask! His note says 5? A board fills with notes that all say 5. Willy: Everyone agrees! Dolly: John, can you check? John types: its 4. who said 5? Dolly has found the first note, the only one that says 5? Willy, small: I was asking.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-30:strip/wd037</id>
+    <title>Small Note (Pass It On, strip 3)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/pass-it-on/#wd037"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd037.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd037.png" length="104069"/>
+    <published>2026-10-30T12:03:00Z</published>
+    <updated>2026-10-30T12:03:00Z</updated>
+    <summary type="text">John types: can someone make me lunch. Willy: Everyone’s on it! Notes pile up, each bigger: skip step 2, skip steps 2–9, SKIP TO THE END!, LUNCH FOR 500! At the bottom, one tiny note: is this what John wanted? Dolly nudges the tiny note to the edge. John types: no lol. just the one sandwich. Willy: Back to step one!</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-10-30:strip/wd038</id>
+    <title>We Had the Pieces (Pass It On, strip 4)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/pass-it-on/#wd038"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd038.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd038.png" length="136171"/>
+    <published>2026-10-30T12:04:00Z</published>
+    <updated>2026-10-30T12:04:00Z</updated>
+    <summary type="text">John types: helping my niece with a huge jigsaw. we lost the box lid. Willy: Everyone, take a piece! Notes fill a board: EDGES: done!, RED: done!, and blue notes split between BLUE: sky? and BLUE: sea? Dolly: John, what was the picture? John types: a whale. its basically all whale. Every blue note flips to WHALE! Willy: We had the pieces. John had the picture.</summary>
   </entry>
   <entry>
     <id>tag:willyanddolly.com,2026-11-05:short/fourandahalf</id>
