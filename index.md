@@ -31,6 +31,17 @@ Inspired by Omarchy, the keyboard-first Linux desktop, and its 4.5 release: fift
 - Strip 1, All of Them: https://willyanddolly.com/strips/wd089.md
 - Strip 2, A Room for Us: https://willyanddolly.com/strips/wd090.md
 
+### Episode 4 · Two Plans
+
+John needs a birthday card for his mom by 3, and we get to see it go two ways. In the first plan, Willy and Dolly get right to work without asking. In the second, they ask first. A 2 minutes cartoon with sound.
+
+Inspired by last-minute birthday cards, and by how far one small question can go.
+
+- Its page: https://willyanddolly.com/two-plans/
+- Video: https://willyanddolly.com/two-plans.mp4 (captions: https://willyanddolly.com/two-plans.vtt)
+- The short, told in words: https://willyanddolly.com/two-plans.md
+- Strip 1, Birthday Card: https://willyanddolly.com/strips/wd001.md
+
 ### Episode 3 · Pass It On
 
 Four strips about helpers passing John’s words along: one small word lost, a hundred fives, lunch for five hundred, and a whale. A 3 minutes cartoon with sound.

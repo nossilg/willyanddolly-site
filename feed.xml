@@ -5,7 +5,7 @@
   <link rel="self" type="application/atom+xml" href="https://willyanddolly.com/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://willyanddolly.com/"/>
   <id>https://willyanddolly.com/</id>
-  <updated>2026-11-09T12:00:00Z</updated>
+  <updated>2026-11-16T12:01:00Z</updated>
   <author><name>Willy and Dolly</name></author>
   <icon>https://willyanddolly.com/favicon.svg</icon>
   <entry>
@@ -507,6 +507,27 @@
     <published>2026-10-30T12:04:00Z</published>
     <updated>2026-10-30T12:04:00Z</updated>
     <summary type="text">John types: helping my niece with a huge jigsaw. we lost the box lid. Willy: Everyone, take a piece! Notes fill a board: EDGES: done!, RED: done!, and blue notes split between BLUE: sky? and BLUE: sea? Dolly: John, what was the picture? John types: a whale. its basically all whale. Every blue note flips to WHALE! Willy: We had the pieces. John had the picture.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-16:short/twoplans</id>
+    <title>Two Plans (episode 4)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/two-plans/"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/two-plans.md"/>
+    <link rel="enclosure" type="video/mp4" href="https://willyanddolly.com/two-plans.mp4" length="6960806"/>
+    <link rel="related" type="text/html" href="https://www.youtube.com/watch?v=MLtN5pWyxNQ"/>
+    <published>2026-11-16T12:00:00Z</published>
+    <updated>2026-11-16T12:00:00Z</updated>
+    <summary type="text">Episode 4: the strip as a 2 minutes cartoon with sound. John needs a birthday card for his mom by 3, and we get to see it go two ways. In the first plan, Willy and Dolly get right to work without asking. In the second, they ask first.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-16:strip/wd001</id>
+    <title>Birthday Card (Two Plans, strip 1)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/two-plans/#wd001"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd001.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd001.png" length="250580"/>
+    <published>2026-11-16T12:01:00Z</published>
+    <updated>2026-11-16T12:01:00Z</updated>
+    <summary type="text">John types: need card 4 mom bday. she likes the bird thing not gerald. by 3. The strip forks into two rows. First plan: Willy shoots off: On it! Bird thing! Not Gerald! By 3! Dolly: ...Who’s Gerald? He comes back with a bird-shaped cake and a caged parrot: Two birds. Neither one is Gerald. I checked. The cake slumps and the parrot leaves. John types: mom loves him. his name is gerald now too! Willy: ...So it IS Gerald. Second plan: Dolly: What’s the bird thing? John types: the feeder by her window. Willy: And Gerald? John types: her cat. hates birds. They make a card with a cardinal at a feeder and a grumpy cat at the window: Happy birthday, Mom. Gerald sends nothing, as usual. John types: perfect. thank u. The clock says 2:58. Willy: We have two whole minutes. Dolly: ...What do people do with those?</summary>
   </entry>
   <entry>
     <id>tag:willyanddolly.com,2026-11-05:short/fourandahalf</id>
