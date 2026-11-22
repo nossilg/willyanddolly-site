@@ -5,7 +5,7 @@
   <link rel="self" type="application/atom+xml" href="https://willyanddolly.com/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://willyanddolly.com/"/>
   <id>https://willyanddolly.com/</id>
-  <updated>2026-11-16T12:01:00Z</updated>
+  <updated>2026-11-21T12:04:00Z</updated>
   <author><name>Willy and Dolly</name></author>
   <icon>https://willyanddolly.com/favicon.svg</icon>
   <entry>
@@ -620,5 +620,45 @@
     <published>2026-11-05T12:05:00Z</published>
     <updated>2026-11-05T12:05:00Z</updated>
     <summary type="text">Three tiles, a hand-lettered sign in each: JOHN, WILLY, DOLLY. John types: the whole point is no labels lol. Willy turns the signs face-down, sadly. Dolly: Then how will we know which tile is you? John types: im the one typing. Willy, beaming: Oh! That’s the best label.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-21:strip/wd138</id>
+    <title>Magic (from the &quot;Super Whisper&quot; lyric video)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/inspired-by/#wd138"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd138.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd138.png" length="115630"/>
+    <published>2026-11-21T12:01:00Z</published>
+    <updated>2026-11-21T12:01:00Z</updated>
+    <summary type="text">Willy and Dolly at the foot of a staircase, a framed beach pic beside Willy. John types: put the beach pic on the tall screen. Dolly: Which room is the tall one? Willy shoves the picture up the stairs as Dolly nudges the door shut. In a tall room, the picture on the wall, they lie flat, out of breath. John types: magic!! Dolly: ...Should we tell him? Willy: Let him have magic. Pulled way back: forty steps, a mountain pic waiting at the foot, the two of them tiny at the top. John types: do it again!!</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-21:strip/wd139</id>
+    <title>He Meant Picture (from the &quot;Super Whisper&quot; lyric video)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/inspired-by/#wd139"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd139.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd139.png" length="106668"/>
+    <published>2026-11-21T12:02:00Z</published>
+    <updated>2026-11-21T12:02:00Z</updated>
+    <summary type="text">A sound wave at the edge, and John&#x27;s spoken words: holding the talk key now. no more typing! put the pitcher on the tall screen. Willy shoves a big water pitcher up the stairs, sloshing. At the top, Dolly: ...He meant picture. In the tall room, both pictures on the walls and the pitcher on a shelf. John: lol perfect. now im thirsty.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-21:strip/wd140</id>
+    <title>Good Guests (from the &quot;Super Whisper&quot; lyric video)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/inspired-by/#wd140"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd140.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd140.png" length="95893"/>
+    <published>2026-11-21T12:03:00Z</published>
+    <updated>2026-11-21T12:03:00Z</updated>
+    <summary type="text">A pale door with a sprig and a plate that reads ORCHARD. John types: can u tidy my other computer too. Inside, folders: PICTURES, MOVIES, APPS, GAMES, and a May I? card by each one. John types: yes, yes, yes lol. Dolly: Finally. A house that asks first. The folders stacked neatly, Willy yells: MAY I? John types: may u what. Willy: I DON&#x27;T KNOW!</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-21:strip/wd141</id>
+    <title>Same Me (from the &quot;Super Whisper&quot; lyric video)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/inspired-by/#wd141"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd141.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd141.png" length="86645"/>
+    <published>2026-11-21T12:04:00Z</published>
+    <updated>2026-11-21T12:04:00Z</updated>
+    <summary type="text">A MEMORY bar beside Willy, nearly empty. John types: one more tiny thing. Willy: Running low! Back in a blink! He goes out one door; Dolly waits alone, her trail growing. He comes back through the other, the bar full. Willy: All full! Same Willy! Dolly: Do you remember me? Willy: Of course. You always ask first. Her trail is gone.</summary>
   </entry>
 </feed>
