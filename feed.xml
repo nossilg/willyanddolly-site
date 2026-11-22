@@ -5,7 +5,7 @@
   <link rel="self" type="application/atom+xml" href="https://willyanddolly.com/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://willyanddolly.com/"/>
   <id>https://willyanddolly.com/</id>
-  <updated>2026-11-21T12:04:00Z</updated>
+  <updated>2026-11-21T12:06:00Z</updated>
   <author><name>Willy and Dolly</name></author>
   <icon>https://willyanddolly.com/favicon.svg</icon>
   <entry>
@@ -660,5 +660,65 @@
     <published>2026-11-21T12:04:00Z</published>
     <updated>2026-11-21T12:04:00Z</updated>
     <summary type="text">A MEMORY bar beside Willy, nearly empty. John types: one more tiny thing. Willy: Running low! Back in a blink! He goes out one door; Dolly waits alone, her trail growing. He comes back through the other, the bar full. Willy: All full! Same Willy! Dolly: Do you remember me? Willy: Of course. You always ask first. Her trail is gone.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-21:strip/wd339</id>
+    <title>Proofread (from the &quot;Dear Omarchy&quot; lyric video)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/inspired-by/#wd339"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd339.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd339.png" length="126322"/>
+    <published>2026-11-21T12:01:00Z</published>
+    <updated>2026-11-21T12:01:00Z</updated>
+    <summary type="text">John types: write something nice about the desktop. Willy sits by a little table with a heart notepad. Pages with hearts fly everywhere. Willy: DONE! TWELVE PAGES! Dolly reads one: “You tile me off my feet.” Willy: IT’S A PUN. Dolly, after a beat: ...It’s a good pun.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-21:strip/wd340</id>
+    <title>Standing Tall (from the &quot;Dear Omarchy&quot; lyric video)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/inspired-by/#wd340"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd340.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd340.png" length="86064"/>
+    <published>2026-11-21T12:02:00Z</published>
+    <updated>2026-11-21T12:02:00Z</updated>
+    <summary type="text">Willy is squashed flat inside a short, wide screen. The screen tips onto its side. Willy, now tall and thin in a tall screen, wobbles. Willy: I’VE NEVER BEEN THIS TALL. His tip bumps the top edge. Dolly: Don’t let it go to your head.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-21:strip/wd341</id>
+    <title>Good Box (from the &quot;Dear Omarchy&quot; lyric video)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/inspired-by/#wd341"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd341.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd341.png" length="74165"/>
+    <published>2026-11-21T12:03:00Z</published>
+    <updated>2026-11-21T12:03:00Z</updated>
+    <summary type="text">A cloud floats near Willy. Willy: COME HERE! The cloud drifts away with a sign hanging from it: please wait. Willy turns to a small box on a table: ...come here? The box hops right over to him, and Dolly rolls up beside it. Willy: GOOD BOX.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-21:strip/wd342</id>
+    <title>Magic (from the &quot;Dear Omarchy&quot; lyric video)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/inspired-by/#wd342"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd342.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd342.png" length="69685"/>
+    <published>2026-11-21T12:04:00Z</published>
+    <updated>2026-11-21T12:04:00Z</updated>
+    <summary type="text">Willy in a tiny top hat by two screens, a window on the left one. Willy: WATCH THIS. While his eyes are shut, Dolly hops and the window slides to the right screen. Willy sees it there: ...MAGIC. Dolly, quietly: You’re welcome.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-21:strip/wd336</id>
+    <title>It’s a Sentence (from the &quot;Dear Omarchy&quot; lyric video)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/inspired-by/#wd336"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd336.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd336.png" length="81789"/>
+    <published>2026-11-21T12:05:00Z</published>
+    <updated>2026-11-21T12:05:00Z</updated>
+    <summary type="text">Two screens, a window on the left one, and four keys on the floor: super, shift, ctrl and an arrow. John types: say it with keys. Willy presses them one at a time: SUPER! SHIFT! Nothing happens. Dolly holds them all down together: Super... Shift... Control... over there. The window slides to the other screen. Willy: IT’S A SENTENCE!</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-21:strip/wd337</id>
+    <title>Shouting Twice (from the &quot;Dear Omarchy&quot; lyric video)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/inspired-by/#wd337"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd337.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd337.png" length="86674"/>
+    <published>2026-11-21T12:06:00Z</published>
+    <updated>2026-11-21T12:06:00Z</updated>
+    <summary type="text">Willy hugs the caps lock key: THIS ONE’S MINE! Dolly: Now hold Shift too. Willy, on caps lock beside shift: SHOUTING TWICE?! Dolly taps m, then h, and a tiny heart appears. Willy, very quietly: ...aw.</summary>
   </entry>
 </feed>
