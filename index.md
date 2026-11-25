@@ -31,6 +31,21 @@ Inspired by Omarchy, the keyboard-first Linux desktop, and its 4.5 release: fift
 - Strip 1, All of Them: https://willyanddolly.com/strips/wd089.md
 - Strip 2, A Room for Us: https://willyanddolly.com/strips/wd090.md
 
+### Episode 5 · Everyone Brought Pie
+
+Five strips about one big family dinner: a goodnight for the whole house, more pie than anyone asked for, who counts, going around the table, and one bite of pie nobody will take. A 4 minutes cartoon with sound.
+
+Inspired by the family group chat the week of a big dinner, and by helpers who pass the messages around.
+
+- Its page: https://willyanddolly.com/everyone-brought-pie/
+- Video: https://willyanddolly.com/everyone-brought-pie.mp4 (captions: https://willyanddolly.com/everyone-brought-pie.vtt)
+- The short, told in words: https://willyanddolly.com/everyone-brought-pie.md
+- Strip 1, Tomorrow You Need: https://willyanddolly.com/strips/wd064.md
+- Strip 2, Everyone Brought Pie: https://willyanddolly.com/strips/wd118.md
+- Strip 3, We Count: https://willyanddolly.com/strips/wd120.md
+- Strip 4, Going Around: https://willyanddolly.com/strips/wd119.md
+- Strip 5, Last Bite: https://willyanddolly.com/strips/wd121.md
+
 ### Episode 4 · Two Plans
 
 John needs a birthday card for his mom by 3, and we get to see it go two ways. In the first plan, Willy and Dolly get right to work without asking. In the second, they ask first. A 2 minutes cartoon with sound.

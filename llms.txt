@@ -21,6 +21,7 @@
 - [Move Me Up, told in words](https://willyanddolly.com/move-me-up.md): episode 2, scene by scene
 - [Pass It On, told in words](https://willyanddolly.com/pass-it-on.md): episode 3, scene by scene
 - [Two Plans, told in words](https://willyanddolly.com/two-plans.md): episode 4, scene by scene
+- [Everyone Brought Pie, told in words](https://willyanddolly.com/everyone-brought-pie.md): episode 5, scene by scene
 - [Four and a Half, told in words](https://willyanddolly.com/four-and-a-half.md): 1 of 2, scene by scene
 - [Side by Side, told in words](https://willyanddolly.com/side-by-side.md): 2 of 2, scene by scene
 
@@ -66,6 +67,11 @@
 - [Small Note](https://willyanddolly.com/strips/wd037.md): Pass It On, strip 3 of 4, panel by panel
 - [We Had the Pieces](https://willyanddolly.com/strips/wd038.md): Pass It On, strip 4 of 4, panel by panel
 - [Birthday Card](https://willyanddolly.com/strips/wd001.md): Two Plans, strip 1 of 1, panel by panel
+- [Tomorrow You Need](https://willyanddolly.com/strips/wd064.md): Everyone Brought Pie, strip 1 of 5, panel by panel
+- [Everyone Brought Pie](https://willyanddolly.com/strips/wd118.md): Everyone Brought Pie, strip 2 of 5, panel by panel
+- [We Count](https://willyanddolly.com/strips/wd120.md): Everyone Brought Pie, strip 3 of 5, panel by panel
+- [Going Around](https://willyanddolly.com/strips/wd119.md): Everyone Brought Pie, strip 4 of 5, panel by panel
+- [Last Bite](https://willyanddolly.com/strips/wd121.md): Everyone Brought Pie, strip 5 of 5, panel by panel
 - [All of Them](https://willyanddolly.com/strips/wd089.md): Four and a Half, strip 1 of 2, panel by panel
 - [A Room for Us](https://willyanddolly.com/strips/wd090.md): Four and a Half, strip 2 of 2, panel by panel
 - [Knock First](https://willyanddolly.com/strips/wd051.md): Side by Side, strip 1 of 5, panel by panel
@@ -97,6 +103,7 @@
 - [Move Me Up: captions](https://willyanddolly.com/move-me-up.vtt) and [the short](https://willyanddolly.com/move-me-up.mp4)
 - [Pass It On: captions](https://willyanddolly.com/pass-it-on.vtt) and [the short](https://willyanddolly.com/pass-it-on.mp4)
 - [Two Plans: captions](https://willyanddolly.com/two-plans.vtt) and [the short](https://willyanddolly.com/two-plans.mp4)
+- [Everyone Brought Pie: captions](https://willyanddolly.com/everyone-brought-pie.vtt) and [the short](https://willyanddolly.com/everyone-brought-pie.mp4)
 - [Four and a Half: captions](https://willyanddolly.com/four-and-a-half.vtt) and [the short](https://willyanddolly.com/four-and-a-half.mp4)
 - [Side by Side: captions](https://willyanddolly.com/side-by-side.vtt) and [the short](https://willyanddolly.com/side-by-side.mp4)
 - [Willy and Dolly on YouTube](https://www.youtube.com/@willyanddolly): new episodes
