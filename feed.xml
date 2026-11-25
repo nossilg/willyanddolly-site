@@ -5,7 +5,7 @@
   <link rel="self" type="application/atom+xml" href="https://willyanddolly.com/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://willyanddolly.com/"/>
   <id>https://willyanddolly.com/</id>
-  <updated>2026-11-23T12:05:00Z</updated>
+  <updated>2026-11-25T12:05:00Z</updated>
   <author><name>Willy and Dolly</name></author>
   <icon>https://willyanddolly.com/favicon.svg</icon>
   <entry>
@@ -781,5 +781,55 @@
     <published>2026-11-21T12:06:00Z</published>
     <updated>2026-11-21T12:06:00Z</updated>
     <summary type="text">Willy hugs the caps lock key: THIS ONE’S MINE! Dolly: Now hold Shift too. Willy, on caps lock beside shift: SHOUTING TWICE?! Dolly taps m, then h, and a tiny heart appears. Willy, very quietly: ...aw.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-25:strip/wd373</id>
+    <title>Clocking Out (from the &quot;Same Time Tomorrow&quot; lyric video)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/inspired-by/#wd373"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd373.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd373.png" length="104369"/>
+    <published>2026-11-25T12:01:00Z</published>
+    <updated>2026-11-25T12:01:00Z</updated>
+    <summary type="text">John types: another lyric video? Willy: We’d LOVE to. Dolly: But... John types: but what. Willy pushes a box marked today, and a screen shows the work saved and pushed. John types: hello? Dolly writes on the screen: memory updated, John asked again, John will ask again tomorrow. John types: u have a second job? Willy wears a SECOND JOB badge. Dolly, with a bar rag: Same time tomorrow?</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-25:strip/wd357</id>
+    <title>Off the Clock (from the &quot;Same Time Tomorrow&quot; lyric video)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/inspired-by/#wd357"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd357.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd357.png" length="104931"/>
+    <published>2026-11-25T12:02:00Z</published>
+    <updated>2026-11-25T12:02:00Z</updated>
+    <summary type="text">Seven helpers at a counter with their names on their mugs, Willy and Dolly in the middle, and a finished list on the wall. Rest gets its check and everyone dozes off but Dolly. Dolly: Same time tomorrow? Willy: Same time tomorrow. A box asks One more...? with the pointer on YES. Everyone is awake, and Willy whistles.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-25:strip/wd361</id>
+    <title>Quick One (from the &quot;Same Time Tomorrow&quot; lyric video)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/inspired-by/#wd361"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd361.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd361.png" length="94503"/>
+    <published>2026-11-25T12:03:00Z</published>
+    <updated>2026-11-25T12:03:00Z</updated>
+    <summary type="text">Five helpers doze at the counter, Willy and Dolly behind the bar. Dolly: Same time tomorrow? Willy: Same time tomorrow. John types: quick one? Everyone is wide awake, and the last Z lies on the floor.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-25:strip/wd362</id>
+    <title>The Tally (from the &quot;Same Time Tomorrow&quot; lyric video)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/inspired-by/#wd362"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd362.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd362.png" length="74890"/>
+    <published>2026-11-25T12:04:00Z</published>
+    <updated>2026-11-25T12:04:00Z</updated>
+    <summary type="text">Five helpers at the counter. The list on the wall grows: build, debug, retry, retry, retry. Rest gets its check, and one long sigh rises. Under the list, off the paper, a new line appears: retry, with an empty box.</summary>
+  </entry>
+  <entry>
+    <id>tag:willyanddolly.com,2026-11-25:strip/wd363</id>
+    <title>Last Call (from the &quot;Same Time Tomorrow&quot; lyric video)</title>
+    <link rel="alternate" type="text/html" href="https://willyanddolly.com/inspired-by/#wd363"/>
+    <link rel="alternate" type="text/markdown" href="https://willyanddolly.com/strips/wd363.md"/>
+    <link rel="enclosure" type="image/png" href="https://willyanddolly.com/strips/wd363.png" length="106931"/>
+    <published>2026-11-25T12:05:00Z</published>
+    <updated>2026-11-25T12:05:00Z</updated>
+    <summary type="text">11:58: the lamp blinks and the bell rings. A helper: Last call. Dolly: Last call. 11:59: the gauge on the wall is nearly empty and everyone dozes. 12:00: ding, the gauge is full. Everyone is awake. Dolly: ...Same time tomorrow.</summary>
   </entry>
 </feed>
